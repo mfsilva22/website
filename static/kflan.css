@@ -1,0 +1,41 @@
+.header {
+  background-color: #13294B;
+  color: white;
+  
+  padding-top: 40px;
+  padding-bottom: 20px;
+
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header h1 {
+  font-size: 68px;
+  letter-spacing: 6px;
+  font-weight: bold;
+}
+
+.header h2 {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.kflan-nav {
+  text-transform: uppercase;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  border-bottom: solid 1px #13294B;
+  padding-top: 5px;
+  padding-bottom: 3px;
+}
+
+.kflan-nav a {
+  color: #E84A27;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.content {
+  margin-top: 25px;
+  font-size: 18px;
+}
