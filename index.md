@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/static/kflan.jpg" alt="Karle Flanagan" style="float: left; margin-right: 25px; max-height: 500px; max-width: 50%; border: solid 1px black;">
+<img src="{{ "/static/kflan.jpg" | relative_url }}" alt="Karle Flanagan" style="float: left; margin-right: 25px; max-height: 500px; max-width: 50%; border: solid 1px black;">
 
 **Karle Flanagan** is lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam blandit ipsum eros, id faucibus nibh euismod non. Quisque at quam eros. Fusce aliquam feugiat tellus et rhoncus. Ut aliquet accumsan ligula ac feugiat. Donec in sapien est. Nunc posuere lacus eget tellus placerat, quis tincidunt dolor imperdiet. Nulla condimentum libero ut massa elementum, non sodales sem sollicitudin. Ut est ligula, scelerisque auctor dui in, consectetur cursus lacus. Phasellus in iaculis est. Curabitur vel elit enim. Morbi ultrices rutrum leo, eu accumsan orci volutpat eget.
 
