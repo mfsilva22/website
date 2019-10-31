@@ -1,7 +1,7 @@
 .header {
   background-color: #13294B;
   color: white;
-  
+
   padding-top: 40px;
   padding-bottom: 20px;
 
@@ -20,7 +20,7 @@
   letter-spacing: 2px;
 }
 
-.kflan-nav {
+.mfsilva-nav {
   text-transform: uppercase;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
@@ -29,7 +29,7 @@
   padding-bottom: 3px;
 }
 
-.kflan-nav a {
+.mfsilva-nav a {
   color: #E84A27;
   padding-left: 10px;
   padding-right: 10px;
