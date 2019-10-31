@@ -1,18 +1,15 @@
 .header {
-  background-color: #13294B;
-  color: white;
-
   padding-top: 40px;
   padding-bottom: 20px;
 
   text-transform: uppercase;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+  /* font-family: 'Montserrat', sans-serif; */
 }
 
 .header h1 {
-  font-size: 68px;
-  letter-spacing: 6px;
-  font-weight: bold;
+  font-size: 40px;
 }
 
 .header h2 {
@@ -22,20 +19,57 @@
 
 .mfsilva-nav {
   text-transform: uppercase;
+  font-size: 24px;
+  /*
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   border-bottom: solid 1px #13294B;
   padding-top: 5px;
   padding-bottom: 3px;
+  */
 }
 
+
 .mfsilva-nav a {
-  color: #E84A27;
-  padding-left: 10px;
-  padding-right: 10px;
+  color: hsla(22, 100%, 50%, 1);
+  font-weight: bold;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.content-container {
+  border: solid 1px black;
+  background-color: white;
+  padding: 0px;
+}
+
+.content-color-bar {
+  border-top: solid 8px hsla(22, 100%, 85%, 1);
+}
+
+.content-title {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
+  border-bottom: dashed 1px hsla(22, 100%, 85%, 1);
 }
 
 .content {
-  margin-top: 25px;
   font-size: 18px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+h3 {
+  margin-top: 25px;
 }

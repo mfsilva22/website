@@ -6,29 +6,44 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald|Roboto+Condensed&display=swap" rel="stylesheet">
+
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ "/static/mfsilva.css" | relative_url }}">
 
     <title>Mariana Silva</title>
   </head>
-  <body>
-    <div class="header container-fluid text-center">
-      <h1>Mariana Silva</h1>
-    </div>
+  <body style="background-color: hsla(22, 100%, 97%, 1);">
+    <div class="container-fluid">
 
-    <div class="container-fluid kflan-nav">
-      <div class="container text-center">
-        <a href="{{ "/" | relative_url }}">Home</a>
-        <a href="{{ "/teaching" | relative_url }}">Teaching</a>
-        <a href="{{ "/research" | relative_url }}">Research</a>
-        <a href="{{ "/publications" | relative_url }}">Publications</a>
+      <div class="header container">
+        <div style="float: left;">
+          <h1>Mariana Silva</h1>
+        </div>
+        <nav class="container-fluid mfsilva-nav">
+          <div class="container text-center">
+            <a href="{{ "/" | relative_url }}">Home</a>
+            <a href="{{ "/teaching" | relative_url }}">Teaching</a>
+            <a href="{{ "/research" | relative_url }}">Research</a>
+            <a href="{{ "/publications" | relative_url }}">Publications</a>
+          </div>
+        </nav>
       </div>
+
+      <div style="clear: both"></div>
+
+      <div class="container content-container">
+        <div class="content-color-bar"></div>
+        <div class="content">
+            <div class="content-title">{{page.header}}</div>
+            {{content}}
+        </div>
+      </div>
+    
     </div>
 
-    <div class="container content">
-      {{content}}
-    </div>
+
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

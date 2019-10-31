@@ -1,5 +1,7 @@
 ---
 permalink: /publications/
+
+header: Publications
 ---
 
 0.	Silva M, Zilles C., West M., “Measuring the score advantage on asynchronous exams in an undergraduate CS course”, submitted and accepted to appear in SIGCSE 2020.

@@ -1,8 +1,9 @@
 ---
 permalink: /teaching/
+
+header: Teaching
 ---
 
-# Teaching
 
 ### Teaching experience
 
