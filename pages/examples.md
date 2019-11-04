@@ -13,7 +13,6 @@ header: Examples of course material
 
 ## Programming assignments
 
-
 - [Short-coding questions]({{ site.baseurl }}{% link pages/examples/short_coding_pl.md %})
 
 - <a href="{{ site.baseurl }}/pages/examples/MP_truss.pdf" target="blank">(Long) Machine Problems</a>

@@ -21,8 +21,8 @@ In a Fall 2018 survey, many students reported that they would like to have more 
 Based on this feedback, I created additional IPython notebooks for lecture demos and started giving Machine Problems (MPs) as homework assignments, all addressing real-world applications of numerical methods. Based on surveys in Spring 2019, students indicated that the MP assignments covered interesting topics and helped them understanding the course content.
 
 
-<figure class="figure">
-   <img src="{{ site.baseurl }}/pages/images/MPs_sp19.png" alt="" style="display: block; margin-left: auto; margin-right: auto;  max-height: 350px; max-width: 90%;  clear:">
+<figure class="figure border m-3 rounded mx-auto d-block">
+   <img src="{{ site.baseurl }}/pages/images/MPs_sp19.png" alt="" style="display: block; margin-left: auto; margin-right: auto; margin-top:10px; max-height: 350px; max-width: 90%;  clear:">
    <figcaption class="figure-caption text-center">Spring 2019 survey, illustrating student's perceptions about the new Machine Problems included as homework assignments.</figcaption>
  </figure>
 

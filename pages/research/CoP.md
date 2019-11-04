@@ -4,7 +4,9 @@ permalink: research/CoP/
 header:  Innovation and improvement of courses via community of practices
 ---
 
+[Under construction]
 
+<!--
 And as students learn better through active learning and collaborative activities, I believe we instructors also become better educators when working within a supportive community of people who care about teaching and are actively trying to find innovative ways of enhancing the classroom experience. It is through a community that ideas on class improvements are exchanged and enriched by the diverse experiences, backgrounds and perspectives of the members. I have been fortunate to belong to talented groups of both faculty and students.
 
 ### TAM
@@ -35,4 +37,4 @@ Grant: Strategic Instructional Innovations Program (SIIP) at UIUC. Research team
 
 Grant: Strategic Instructional Innovations Program (SIIP) at UIUC. Research team: Matthew West, Geir Dullerud, Elif Ertekin, Randy Ewoldt, Blake Johnson, Mariana Silva and Daniel Tortorelli, 2012-201.
 West M., Silva M., Herman G., “Sustainable reform of an introductory mechanics course sequence driven by a community of practice”, Proceedings of the ASME 2015 International Mechanical Engineering Congress & Exposition (IMECE 2015), IMECE2015-51493, 2015.
-West M., Silva M., Herman G., “Randomized exams for large STEM courses spread via communities of practice”, Proceedings of the 122nd American Society for Engineering Education Annual Conference and Exposition (ASEE 2015), 26.1302.1-26.1302.15, 2015.
+West M., Silva M., Herman G., “Randomized exams for large STEM courses spread via communities of practice”, Proceedings of the 122nd American Society for Engineering Education Annual Conference and Exposition (ASEE 2015), 26.1302.1-26.1302.15, 2015. -->
