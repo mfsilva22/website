@@ -1,39 +1,68 @@
 ---
 permalink: /teaching/
 
-header: Teaching
+header: Teaching Activities and Innovations
 ---
 
+## Teaching experience
 
-### Teaching experience
 
-Course name                  | Term taught    
------------------------------| ---------------
-Numerical Analysis [(CS 357)]({{ site.baseurl }}{% link pages/courses.md %}/#cs357) | Spring 2018, Fall 2018, Spring 2019, Fall fa2019
-Brushing up linear algebra and programming skills using Python [(CS 199)]({{ site.baseurl }}{% link pages/courses.md %}/#cs199la) | Fall 2019
-Python for Data [(CS 199)]({{ site.baseurl }}{% link pages/courses.md %}/#cs199py) | Fall 2019
-Real World Cases in Scientific Computing [(CS 199)]({{ site.baseurl }}{% link pages/courses.md %}/#cs199ap) | Fall 2018
-Introduction to Online Learning Systems [(CS 498)]({{ site.baseurl }}{% link pages/courses.md %}/#cs498onl) | Fall 2017
-Finite Element Analysis [(ME 471)]({{ site.baseurl }}{% link pages/courses.md %}/#me471) | Spring 2016, Spring fa2017
-Introductory Solid Mechanics [(TAM 251)]({{ site.baseurl }}{% link pages/courses.md %}/#tam251) | Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2015, Fall 2016, Fall 2017
-Statics [(TAM 210/TAM211)]({{ site.baseurl }}{% link pages/courses.md %}/#tam210) | Fall 2014, Spring 2015, Spring 2017
-{:.table-striped}
+<table class="table table-striped" >
+  <thead>
+    <tr>
+      <th scope="col">Course name</th>
+      <th scope="col">Term taught</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#cs357">Numerical Methods 1</a> </td>
+      <td> Spring 2018, Fall 2018, Spring 2019, Fall 2019</td>
+    </tr>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#cs199la">Brushing up linear algebra and programming skills using Python</a> </td>
+      <td> Fall 2019</td>
+    </tr>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#cs199py">Python for Data</a> </td>
+      <td> Fall 2019</td>
+    </tr>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#cs199ap">Real World Cases in Scientific Computing</a> </td>
+      <td> Fall 2018</td>
+    </tr>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#cs498onl">Introduction to Online Learning Systems</a> </td>
+      <td> Fall 2017</td>
+    </tr>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#me471">Finite Element Analysis</a> </td>
+      <td> Spring 2016, Spring 2017</td>
+    </tr>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#tam251">Introductory Solid Mechanics</a> </td>
+      <td> Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2015, Fall 2016, Fall 2017 </td>
+    </tr>
+    <tr>
+      <td> <a href="{{ site.baseurl }}{% link pages/courses.md %}/#tam210">Statics</a> </td>
+      <td> Fall 2014, Spring 2015, Spring 2017</td>
+    </tr>
+  </tbody>
+</table>
 
-### Teaching practices
+## Teaching philosophy
 
-##### Lecture content
- I prepare “pre-lecture” notes that I give to students prior to the lecture, which essentially include topics, main bullet points, example problem statements, figures and plots. In class, I use a tablet computer to complete the missing information, which mostly include the solution of examples. The annotations are saved and given to students as “post-lecture” notes. Lectures are also recorded and made available to students.
+Through my teaching experience at Illinois, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning, (b) students are more engaged in the learning experience when they can apply the concepts they learn in classes to solve real-world problems, (c) the learning experience and knowledge retention can be improved with the use for frequent summative assessments with immediate feedback. You can read more about my teaching philosophy [here]({{ site.baseurl }}{% link pages/teaching/teaching_philosophy.md %}), and find examples of each principle from the links below.
 
-##### Interactive lecture
-During lecture-style classes, students are not required to copy the projected annotations, since they know I will make the content available after the class, which encourages more participation during lecture. The interaction with students is enhanced through the use of short quiz questions. Students are encouraged to talk to their peers to construct their answer. I sometimes use questions that are geared toward common mistakes seen in previous semesters, helping students avoid these common pitfalls.
 
-##### Collaborative problem-solving activities
-At 
+- [Active learning opportunities to increase student's participation]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
 
-##### Computational thinking
+- [Online assessments with auto-graders and immediate feedback]({{ site.baseurl }}{% link pages/teaching/OnlineHW.md %})
 
-##### Homework for mastery of skills
+- [Making it real: creating assignments with real-world examples]({{ site.baseurl }}{% link pages/teaching/ProgrammingExamples.md %})
 
-##### Frequent testing
+## Evaluating learning outcomes and impact of innovations
 
-##### Evaluation of innovations
+- [How can we measure student's ability to use existing numerical libraries?]({{ site.baseurl }}{% link pages/teaching/ABET.md %})
+
+- [Are the course innovations improving student's learning and experience in the class?]({{ site.baseurl }}{% link pages/teaching/Evaluation_Innovations.md %})

@@ -1,5 +1,0 @@
----
-permalink: /assessments/
----
-
-### Online assessments

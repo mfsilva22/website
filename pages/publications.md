@@ -4,6 +4,7 @@ permalink: /publications/
 header: Publications
 ---
 
+
 0.	Silva M, Zilles C., West M., “Measuring the score advantage on asynchronous exams in an undergraduate CS course”, submitted and accepted to appear in SIGCSE 2020.
 
 0.	Morphew J., Silva M., Herman G., West M. (2019), “Frequent mastery testing with second-chance exams leads to enhanced student learning in undergraduate STEM”, Applied Cognitive Psycology, https://doi.org/10.1002/acp.3605, 2019.

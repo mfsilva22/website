@@ -1,5 +1,0 @@
----
-permalink: /collaborative/
----
-
-### Collaborative activities
