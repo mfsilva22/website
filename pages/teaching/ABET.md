@@ -1,5 +1,5 @@
 ---
-permalink: teaching/numerical_libraries
+permalink: teaching/numerical_libraries/
 
 header: Measuring student's ability to use software tools to solve numerical methods problem
 ---
@@ -22,4 +22,4 @@ In Spring 2019, I added two short-coding quizzes during the semester (in additio
    <figcaption class="figure-caption text-center">Figure 2: Spring 2019 survey, illustrating what students believe to be helpful when studying for a given quiz. Homework is a good resource when studying for both quiz formats, since it includes short-answer and coding questions. MPs and Ipython (Jupyter) notebooks are only helpful when preparing for coding quizzes."</figcaption>
  </figure>
 
-Examples of [non-coding]({{ site.baseurl }}{% link pages/examples/non_coding_pl.md %}) and [coding]({{ site.baseurl }}{% link pages/examples/short_coding_pl.md %}) questions implemented via PrairieLearn. 
+Examples of [non-coding]({{ site.baseurl }}{% link pages/examples/non_coding_pl.md %}) and [coding]({{ site.baseurl }}{% link pages/examples/short_coding_pl.md %}) questions implemented via PrairieLearn.
