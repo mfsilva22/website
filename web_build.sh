@@ -2,4 +2,4 @@
 
 bundle exec jekyll build
 
-rsync -Prlv _site/ mfsilva@sftp.courses.grainger.illinois.edu:/courses/cs357/fa2019
+rsync -Prlv _site/ mfsilva@mfsilva.web.illinois.edu:/

@@ -4,6 +4,24 @@ permalink: /teaching/
 header: Teaching Activities and Innovations
 ---
 
+
+## Teaching philosophy
+
+While getting my PhD at the University of Illinois I was a teaching assistant for five semesters, and since Spring 2012, I have taught eight different undergraduate courses with over 4700 students, varying from freshman to senior level classes. Through all of these teaching experiences, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning,
+ (b) students are more engaged when applying concepts from class to solve real-world problems, and (c) the learning process and knowledge retention can be improved with the use of frequent assessments with immediate feedback
+
+- [Increasing student participation and motivation ]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
+
+
+- [Online assessments with auto-graders and immediate feedback]({{ site.baseurl }}{% link pages/teaching/OnlineHW.md %})
+
+## Teaching materials
+
+- [Selected lecture notes and assessments]({{ site.baseurl }}{% link pages/examples.md %})
+
+- [Archived course websites]({{ site.baseurl }}{% link pages/courses.md %})
+
+
 ## Teaching experience
 
 
@@ -49,20 +67,3 @@ header: Teaching Activities and Innovations
     </tr>
   </tbody>
 </table>
-
-## Teaching philosophy
-
-Through my teaching experience at Illinois, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning, (b) students are more engaged in the learning experience when they can apply the concepts they learn in classes to solve real-world problems, (c) the learning experience and knowledge retention can be improved with the use for frequent summative assessments with immediate feedback. You can read more about my teaching philosophy [here]({{ site.baseurl }}{% link pages/teaching/teaching_philosophy.md %}), and find examples of each principle from the links below.
-
-
-- [Active learning opportunities to increase student's participation]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
-
-- [Online assessments with auto-graders and immediate feedback]({{ site.baseurl }}{% link pages/teaching/OnlineHW.md %})
-
-- [Making it real: creating assignments with real-world examples]({{ site.baseurl }}{% link pages/teaching/ProgrammingExamples.md %})
-
-## Evaluating learning outcomes and impact of innovations
-
-- [How can we measure student's ability to use existing numerical libraries?]({{ site.baseurl }}{% link pages/teaching/ABET.md %})
-
-- [Are the course innovations improving student's learning and experience in the class?]({{ site.baseurl }}{% link pages/teaching/Evaluation_Innovations.md %})

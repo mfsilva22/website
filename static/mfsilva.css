@@ -41,6 +41,12 @@
   border: solid 1px black;
   background-color: white;
   padding: 0px;
+  margin-bottom: 100px;
+}
+
+.contact-container {
+  padding: 0px;
+  margin-bottom: 10px;
 }
 
 .content-color-bar {
