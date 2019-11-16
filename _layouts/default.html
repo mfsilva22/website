@@ -18,22 +18,21 @@
     <div class="container-fluid">
 
       <div class="header container">
-        <div style="float: left;">
-          <h1>Mariana Silva</h1>
-        </div>
-        <nav class="container-fluid mfsilva-nav">
-          <div class="container text-center">
-            <a href="{{ "/" | relative_url }}">Home</a>
-            <a href="{{ "/teaching" | relative_url }}">Teaching</a>
-            <a href="{{ "/research" | relative_url }}">Research</a>
-            <a href="{{ "/publications" | relative_url }}">Publications</a>
-            <!-- <a href="{{ "/examples" | relative_url }}">Examples</a> -->
+        <div class="row">
+          <div class="col-md-4">
+            <h1>Mariana Silva</h1>
           </div>
-        </nav>
+          <nav class="col-md-8 mfsilva-nav">
+            <div class="text-right">
+              <a href="{{ "/" | relative_url }}">Home</a>
+              <a href="{{ "/teaching" | relative_url }}">Teaching</a>
+              <a href="{{ "/research" | relative_url }}">Research</a>
+              <a href="{{ "/publications" | relative_url }}">Publications</a>
+              <!-- <a href="{{ "/examples" | relative_url }}">Examples</a> -->
+            </div>
+          </nav>
+        </div>
       </div>
-
-      <div style="clear: both"></div>
-
 
       <div class="container content-container">
         <div class="content-color-bar"></div>
