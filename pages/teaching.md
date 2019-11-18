@@ -4,22 +4,23 @@ permalink: /teaching/
 header: Teaching Activities and Innovations
 ---
 
-
 ## Teaching philosophy
 
-While getting my PhD at the University of Illinois I was a teaching assistant for five semesters, and since Spring 2012, I have taught eight different undergraduate courses with over 4700 students, varying from freshman to senior level classes. Through all of these teaching experiences, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning,
- (b) students are more engaged when applying concepts from class to solve real-world problems, and (c) the learning process and knowledge retention can be improved with the use of frequent assessments with immediate feedback
+I have taught eight different undergraduate courses with over 4700 students, from freshman to senior level. Throughout my teaching I observed and improved how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
+
+ <!-- I have taught eight different undergraduate courses with over 4700 students, varying from freshman to senior level classes. Through all of these teaching experiences, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning,
+ (b) students are more engaged when applying concepts from class to solve real-world problems, and (c) the learning process and knowledge retention can be improved with the use of frequent assessments with immediate feedback -->
 
 - [Increasing student participation and motivation ]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
 
 
 - [Online assessments with auto-graders and immediate feedback]({{ site.baseurl }}{% link pages/teaching/OnlineHW.md %})
 
-## Teaching materials
+## Courses
+
+- [Course descriptions and websites]({{ site.baseurl }}{% link pages/courses.md %})
 
 - [Selected lecture notes and assessments]({{ site.baseurl }}{% link pages/examples.md %})
-
-- [Archived course websites]({{ site.baseurl }}{% link pages/courses.md %})
 
 
 ## Teaching experience
