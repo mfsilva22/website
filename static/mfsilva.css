@@ -81,6 +81,12 @@ h3 {
   margin-top: 25px;
 }
 
+h4 {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-bottom: solid 3px hsla(22, 100%, 85%, 1);
+}
+
 p {
   margin-top: 10px;
 }

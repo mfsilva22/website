@@ -8,8 +8,9 @@ header: List of courses taught
 
 <a name="cs357"></a>
 #### Numerical Methods 1 (CS 357)
-Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines.
-[[Spring 2018](https://relate.cs.illinois.edu/course/cs357-s18/), [Fall 2018](https://relate.cs.illinois.edu/course/cs357-f18/), [Spring 2019](https://relate.cs.illinois.edu/course/cs357-s19/), [Fall 2019](https://courses.engr.illinois.edu/cs357/fa2019/)]
+
+Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. [Spring  2018, Fall 2018, Spring 2019, Fall 2019]
+
 
 <a name="cs199la"></a>
 #### Brushing up linear algebra and programming fundamentals using Python (CS 199)
@@ -33,16 +34,13 @@ In this project-based course, students will learn about online learning systems 
 
 <a name="me471"></a>
 #### Finite Element Analysis (ME 471)
-The finite element method and its application to engineering problems: truss and frame structures, heat conduction, and linear elasticity; use of application software; overview of advanced topics such as structural dynamics, fluid flow, and nonlinear structural analysis.
-[[Spring 2016](https://courses.grainger.illinois.edu/me471/sp2016/), [Spring 2017](https://courses.grainger.illinois.edu/me471/sp2017/)]
+The finite element method and its application to engineering problems: truss and frame structures, heat conduction, and linear elasticity; use of application software; overview of advanced topics such as structural dynamics, fluid flow, and nonlinear structural analysis. [Spring 2016, Spring 2017]
 
 
 <a name="tam251"></a>
 #### Introductory Solid Mechanics (TAM 251)
-Relationship between internal stresses and deformations produced by external forces acting on deformable bodies, and design principles based on mechanics of solids: normal stresses, shear stresses, and deformations produced by tensile, compressive, torsional, and bending loading of members; beam deflections; elastic energy and impact; multi-dimensional stress states; buckling of columns.
-[Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014, [Fall 2015](https://courses.grainger.illinois.edu/tam251/fa2015/), [Fall 2016](https://courses.grainger.illinois.edu/tam251/fa2016/), [Fall 2017](https://courses.grainger.illinois.edu/tam251/fa2017/) ]
+Relationship between internal stresses and deformations produced by external forces acting on deformable bodies, and design principles based on mechanics of solids: normal stresses, shear stresses, and deformations produced by tensile, compressive, torsional, and bending loading of members; beam deflections; elastic energy and impact; multi-dimensional stress states; buckling of columns. [Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014, Fall 2015, Fall 2016, Fall 2017]
 
 <a name="tam210"></a>
 #### Statics (TAM 210/TAM211)
-This course covers fundamental concepts in mechanics, such as forces, moments, free-body diagrams, structural analyses of frames, trusses, and machines, shear-force and bending-moment diagrams, Coulomb friction, centroids, center of mass and moment of inertia. By the end of the semester, students are able to solve rigid body mechanics problems that will inform the design in many applications, such as bridges and biomedical devices.
-[Fall 2014, Spring 2015, [Spring 2017](https://courses.grainger.illinois.edu/tam210/sp2017/)]
+This course covers fundamental concepts in mechanics, such as forces, moments, free-body diagrams, structural analyses of frames, trusses, and machines, shear-force and bending-moment diagrams, Coulomb friction, centroids, center of mass and moment of inertia. By the end of the semester, students are able to solve rigid body mechanics problems that will inform the design in many applications, such as bridges and biomedical devices. [Fall 2014, Spring 2015, Spring 2017]

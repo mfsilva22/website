@@ -27,7 +27,7 @@ doctoral research focused on the theory, computation, and design optimization of
 <!-- #### Contact information
 
 
-Mariana Teixeira Silva \\
+Mariana Silva \\
 2213 Siebel Center \\
 (217) 300-6633 \\
 mfsilva@illinois.edu -->

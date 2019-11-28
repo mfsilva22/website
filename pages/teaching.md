@@ -8,6 +8,7 @@ header: Teaching Activities and Innovations
 
 I have taught eight different undergraduate courses with over 4700 students, from freshman to senior level. Throughout my teaching I observed and improved how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
 
+
  <!-- I have taught eight different undergraduate courses with over 4700 students, varying from freshman to senior level classes. Through all of these teaching experiences, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning,
  (b) students are more engaged when applying concepts from class to solve real-world problems, and (c) the learning process and knowledge retention can be improved with the use of frequent assessments with immediate feedback -->
 
@@ -16,16 +17,79 @@ I have taught eight different undergraduate courses with over 4700 students, fro
 
 - [Online assessments with auto-graders and immediate feedback]({{ site.baseurl }}{% link pages/teaching/OnlineHW.md %})
 
-## Courses
 
-- [Course descriptions and websites]({{ site.baseurl }}{% link pages/courses.md %})
+## Teaching experience
+
+- [Course descriptions]({{ site.baseurl }}{% link pages/courses.md %})
 
 - [Selected lecture notes and assessments]({{ site.baseurl }}{% link pages/examples.md %})
 
 
-## Teaching experience
+<table class="table table-striped" >
+  <thead>
+    <tr>
+      <th scope="col">Course name</th>
+      <th scope="col">Term taught</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Numerical Methods 1 </td>
+      <td>
+      <a href="https://relate.cs.illinois.edu/course/cs357-s18/" target="blank">Spring 2018</a>,
+      <a href="https://relate.cs.illinois.edu/course/cs357-f18/" target="blank">Fall 2018</a>,
+      <a href="https://relate.cs.illinois.edu/course/cs357-s19/" target="blank">Spring 2019</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/fa2019/" target="blank">Fall 2019</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Brushing up linear algebra and programming skills using Python </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199_fa19.md" target="blank">Fall 2019</a> </td>
+    </tr>
+    <tr>
+      <td> Python for Data </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199py_fa19.md" target="blank">Fall 2019</a> </td>
+    </tr>
+    <tr>
+      <td> Real World Cases in Scientific Computing </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199_fa18.md" target="blank">Fall 2018</a> </td>
+    </tr>
+    <tr>
+      <td> Introduction to Online Learning Systems </td>
+      <td> Fall 2017</td>
+    </tr>
+    <tr>
+      <td> Finite Element Analysis </td>
+      <td>
+      <a href="https://courses.grainger.illinois.edu/me471/sp2016/" target="blank">Spring 2016</a>,
+      <a href="https://courses.grainger.illinois.edu/me471/sp2017/" target="blank">Spring 2017</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Introductory Solid Mechanics </td>
+      <td>
+      <a href="{{ site.baseurl }}/pages/old_syllabus/TAM251_Syllabus_Spring2012.pdf" target="blank">Spring 2012</a>,
+      <a href="{{ site.baseurl }}/pages/old_syllabus/TAM251_Syllabus_Fall_2012.pdf" target="blank">Fall 2012</a>,
+      <a href="{{ site.baseurl }}/pages/old_syllabus/TAM251_Syllabus_Spring_2013.pdf" target="blank">Spring 2013</a>,
+      <a href="{{ site.baseurl }}/pages/old_syllabus/TAM251_Syllabus_Fall_2013.pdf" target="blank">Fall 2013</a>,
+      <a href="{{ site.baseurl }}/pages/old_syllabus/TAM251_Syllabus_Spring_2014.pdf" target="blank">Spring 2014</a>,
+      <a href="https://courses.grainger.illinois.edu/tam251/fa2015/" target="blank">Fall 2015</a>,
+      <a href="https://courses.grainger.illinois.edu/tam251/fa2016/" target="blank">Fall 2016</a>,
+      <a href="https://courses.grainger.illinois.edu/tam251/fa2017/" target="blank">Fall 2017</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Statics </td>
+      <td>
+      <a href="{{ site.baseurl }}/pages/old_syllabus/TAM211_Syllabus_Fall_2014.pdf" target="blank">Fall 2014</a>,
+      <a href="{{ site.baseurl }}/pages/old_syllabus/TAM211_Syllabus_Spring2015.pdf" target="blank">Spring 2015</a>,
+      <a href="https://courses.grainger.illinois.edu/tam210/sp2017/" target="blank">Spring 2017</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
+<!--
 <table class="table table-striped" >
   <thead>
     <tr>
@@ -67,4 +131,4 @@ I have taught eight different undergraduate courses with over 4700 students, fro
       <td> Fall 2014, Spring 2015, Spring 2017</td>
     </tr>
   </tbody>
-</table>
+</table> -->
