@@ -44,15 +44,15 @@ I have taught eight different undergraduate courses with over 4700 students, fro
     </tr>
     <tr>
       <td> Brushing up linear algebra and programming skills using Python </td>
-      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199_fa19.md" target="blank">Fall 2019</a> </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199_fa19.html" target="blank">Fall 2019</a> </td>
     </tr>
     <tr>
       <td> Python for Data </td>
-      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199py_fa19.md" target="blank">Fall 2019</a> </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199py_fa19.html" target="blank">Fall 2019</a> </td>
     </tr>
     <tr>
       <td> Real World Cases in Scientific Computing </td>
-      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199_fa18.md" target="blank">Fall 2018</a> </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199_fa18.html" target="blank">Fall 2018</a> </td>
     </tr>
     <tr>
       <td> Introduction to Online Learning Systems </td>
