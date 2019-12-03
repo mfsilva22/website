@@ -1,6 +1,4 @@
 ---
-permalink: courses/cs199py_fa19
-
 header: Python for Data  (CS 199)
 ---
 ## Description
