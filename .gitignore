@@ -1,3 +1,5 @@
-_site
-.sass-cache
-.jekyll-metadata
+.DS_Store
+pl_jobs/
+*.idea
+*.ipynb_checkpoints
+*.swp
