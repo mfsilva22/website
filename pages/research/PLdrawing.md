@@ -14,5 +14,5 @@ In Fall 2016 semester, I developed an interactive drawing question framework usi
 
 <small>
 Silva M. and West M., ["Algorithmic grading strategies for computerized mechanical drawing assessments"](https://www.asee.org/public/conferences/78/papers/19927/view), Proceedings of the 124th American Society for Engineering Education Annual Conference and Exposition (ASEE 2017), 2017.\\
-Nytko N., West M., Silva M., A simple and efficient markup tool to generate drawing-based online assessments, abstract accepted to ASEE 2020.
+Nytko N., West M., Silva M., "A simple and efficient markup tool to generate drawing-based online assessments", accepted to appear in ASEE 2020.
 </small>

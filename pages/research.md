@@ -23,6 +23,8 @@ My research work is often motivated by the challenges I encounter when I teach. 
 
 - [Using software to encourage collaboration]({{ site.baseurl }}{% link pages/research/Collaborative_Learning_Large_Classes.md %})
 
+- [Collaborative activities as part of an intervention study]({{ site.baseurl }}{% link pages/research/Intervention.md %})
+
 
 ## C) Working with other faculty to improve teaching and learning
 

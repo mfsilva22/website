@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald|Roboto+Condensed&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/mfsilva.css">
+
+    <title>Mariana Silva</title>
+  </head>
+  <body style="background-color: hsla(22, 100%, 97%, 1);">
+    <div class="container-fluid">
+
+      <div class="header container">
+        <div class="row">
+          <div class="col-md-4">
+            <h1><a href="/" style="color: black;">Mariana Silva</a></h1>
+          </div>
+          <nav class="col-md-8 mfsilva-nav">
+            <div class="text-right">
+              <a href="/">Home</a>
+              <a href="/teaching">Teaching</a>
+              <a href="/research">Research</a>
+              <a href="/publications">Publications</a>
+              <!-- <a href="/examples">Examples</a> -->
+            </div>
+          </nav>
+        </div>
+      </div>
+
+      <div class="container content-container">
+        <div class="content-color-bar"></div>
+        <div class="content">
+            <div class="content-title">Short (non-coding) questions implemented via PrairieLearn</div>
+            <p>Non-coding questions appear in homework and quizzes. In the courses I teach, they mostly appear in the form of <a href="#number_question">numerical</a> or
+<a href="#matrix_question">matrix</a> input, and
+<a href="#mc_question">multiple-choice</a> and checkbox formats. The grading of these questions will vary, depending if they are included in a quiz or HW. In HW assessments, students have unlimited attempts to get the question marked as correct, and can get variants of the same question for practice. In quizzes, students receive only one variant of the question, and may have more than one attempt for partial credit (read more about assessment formats <a href="/teaching/online_assessments/">here</a>).</p>
+
+<p><a name="number_question"></a></p>
+<h3 id="example-1-question-with-numerical-input-fields">Example 1: question with numerical input fields</h3>
+
+<p>Figure 1 illustrates a typical HW question, where students can answer a series of small questions regarding the same problem. This question generates the matrix A in a carefully randomized way, making sure all the singular values are always positive (to guarantee full rank) and that they are given by integer numbers (for simplicity of the calculations). Students that have mastered the concepts about SVD are able to answer this question without any special computation. However, students that are still in the process of learning these concepts may be using other resources to actually compute the required quantities. When this question is included in a HW, students can generate different versions of the same question, where the matrix A can have different shape and values, as illustrated in Fig. 2.</p>
+
+<figure class="figure border m-3">
+    <img src="/pages/images/hw_number_input.png" alt="" style="display: block; margin-left: auto; margin-right: auto; max-height: 420px; max-width: 90%;  clear:" />
+ <figcaption class="figure-caption text-center"> Figure 1: Homework question with multi-parts. Students get partial credit for each correct entry.</figcaption>
+  </figure>
+
+<figure class="figure border m-3">
+     <img src="/pages/images/hw_number_input_variants.png" alt="" style="display: block; margin-left: auto; margin-right: auto; padding-top:10px; max-height: 420px; max-width: 90%;  clear:" />
+  <figcaption class="figure-caption text-center"> Figure 2: Two variants of the same question, showing how the matrix can have different shapes and values. Students can try the same question with different variants in order to get more practice.</figcaption>
+   </figure>
+
+<p><a name="matrix_question"></a></p>
+<h3 id="example-2--question-with-matrix-input-fields">Example 2:  question with matrix input fields</h3>
+
+<p>Figure 3 shows an example where students need to provide a matrix as the answer to the question. Here each entry of the matrix receives partial credit, as illustrated in Fig. 4. Questions authors also have the option to set the question as “all-or-nothing”. The graph is generated at random, and hence students receive different variants of the question, as shown in Fig. 5.</p>
+
+<figure class="figure border m-3">
+   <img src="/pages/images/adjacency_intro.png" alt="" style="display: block; margin-left: auto; margin-right: auto; margin-top:10px; max-height: 420px;  max-width: 90%;  clear:" />
+<figcaption class="figure-caption text-center"> Figure 3: example question with matrix input as expected answer. The graph is generated at random and constructed dynamically by the setup code.</figcaption>
+ </figure>
+
+<figure class="figure border m-3">
+    <img src="/pages/images/adjacency_submission.png" alt="" style="display: block; margin-left: auto; margin-right: auto; max-height: 420px; max-width: 90%;  clear:" />
+ <figcaption class="figure-caption text-center"> Figure 4: in this example, each entry of the matrix receives partial credit. This setup can be changed by the question author.</figcaption>
+  </figure>
+
+<figure class="figure border m-3">
+     <img src="/pages/images/adjacency_variants.png" alt="" style="display: block; margin-left: auto; margin-right: auto; margin-top:10px; max-height: 350px; max-width: 90%;  clear:" />
+  <figcaption class="figure-caption text-center"> Figure 5: in homework mode, students can generate many versions of the graph, and get more practice from the same question. In quizzes, the graph remains the same even when students can retry the problem for reduced credit. Different students will receive randomized versions of the question.</figcaption>
+   </figure>
+
+<p><a name="mc_question"></a></p>
+<h3 id="example-3-question-with-multiple-choice">Example 3: question with multiple-choice</h3>
+
+<p>This example illustrates a multiple-choice question that has parameterized options. The highlighted parameters are generated at random, and the set of distractors and correct answer are generated based on these parameters (Fig. 6).</p>
+
+<figure class="figure border m-3">
+      <img src="/pages/images/Taylor_MC.png" alt="" style="display: block; margin-left: auto; margin-right: auto; margin-top:10px; max-height: 300px;  max-width: 90%;  clear:" />
+   <figcaption class="figure-caption text-center"> Figure 6: multiple-choice question illustrating the use of random parameters to create different variants. </figcaption>
+    </figure>
+
+        </div>
+      </div>
+
+      <div class="container contact-container">
+        <div class="content">
+          <h3>Contact information</h3>
+          <p>Mariana Silva <br />
+          2213 Siebel Center <br />
+          (217) 300-6633 <br />
+          mfsilva@illinois.edu</p>
+        </div>
+          <div class="content-color-bar"></div>
+      </div>
+
+    </div>
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

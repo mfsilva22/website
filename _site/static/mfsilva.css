@@ -1,0 +1,128 @@
+.header {
+  padding-top: 40px;
+  padding-bottom: 30px;
+
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+  /* font-family: 'Montserrat', sans-serif; */
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.header h2 {
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+.mfsilva-nav {
+  text-transform: uppercase;
+  font-size: 24px;
+  /*
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  border-bottom: solid 1px #13294B;
+  padding-top: 5px;
+  padding-bottom: 3px;
+  */
+}
+
+
+.mfsilva-nav a {
+  color: hsla(22, 100%, 50%, 1);
+  font-weight: bold;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.content-container {
+  border: solid 1px black;
+  background-color: white;
+  padding: 0px;
+  margin-bottom: 100px;
+}
+
+.contact-container {
+  padding: 0px;
+  margin-bottom: 10px;
+}
+
+.content-color-bar {
+  border-top: solid 8px hsla(22, 100%, 85%, 1);
+}
+
+.content-title {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed', sans-serif;
+  border-bottom: dashed 1px hsla(22, 100%, 85%, 1);
+}
+
+.content {
+  font-size: 18px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+h2 {
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  margin-top: 25px;
+}
+
+h4 {
+  margin-top: 20px;
+  padding-top: 20px;
+  border-bottom: solid 3px hsla(22, 100%, 85%, 1);
+}
+
+p {
+  margin-top: 10px;
+}
+
+a {
+    color: hsla(22, 100%, 50%, 1);
+    text-decoration: none;
+}
+
+a:hover
+{
+     color:#00A0C6;
+     text-decoration:none;
+     cursor:pointer;
+}
+
+/* .floatright
+{
+float: right;
+width: 103px;
+margin: 10px 10px 10px 10px;
+background-color: #fff;
+padding: 10px;
+border-top: 1px solid #999;
+border-right: 2px solid #555;
+border-bottom: 2px solid #555;
+border-left: 1px solid #999;
+}
+
+div.floatright img
+{
+padding-top: 10px;
+padding-left: 30px;
+padding-right: 30px;
+border-top: 2px solid #555;
+border-right: 1px solid #999;
+border-bottom: 1px solid #999;
+border-left: 2px solid #555;
+} */

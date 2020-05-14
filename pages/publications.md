@@ -4,8 +4,15 @@ permalink: /publications/
 header: Publications
 ---
 
+0.	Silva M., Shaffer E., Nytko N., Amos J., “A case study of early performance prediction and intervention in a computer science course”, accepted to appear in ASEE 2020.
 
-0.	Silva M., Zilles C., West M., “Measuring the score advantage on asynchronous exams in an undergraduate CS course”, submitted and accepted to appear in SIGCSE 2020.
+0.	Mohan A., Dey P., Tan S., Johnson B., Fagen-Ulmschneider W., Silva, M., “Introducing junto: a web tool to build project teams based on a bidding strategy”, accepted to appear in ASEE 2020.
+
+0.	Nytko N., West M., Silva M., “A simple and efficient markup tool to generate drawing-based online assessments”, accepted to appear in ASEE 2020.
+
+0.	Salim S., Lu L., Mercier E., Margotta A., Livingston E., Silva M., Tucker T., “Towards the effective implementation of collaborative problem solving in undergraduate engineering classrooms: co-designing guidelines for teaching assistants”, accepted to appear in ASEE 2020.
+
+0.	Silva M., Zilles C., West M., [“Measuring the score advantage on asynchronous exams in an undergraduate CS course”](https://dl.acm.org/doi/pdf/10.1145/3328778.3366859), Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE 2020), https://doi.org/10.1145/3328778.3366859, 2020.
 
 0.	Morphew J., Silva M., Herman G., West M. (2019), [“Frequent mastery testing with second-chance exams leads to enhanced student learning in undergraduate STEM”](https://doi.org/10.1002/acp.3605), Applied Cognitive Psycology, https://doi.org/10.1002/acp.3605, 2019.
 

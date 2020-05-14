@@ -9,18 +9,22 @@ header: List of courses taught
 <a name="cs357"></a>
 #### Numerical Methods 1 (CS 357)
 
-Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. [Spring  2018, Fall 2018, Spring 2019, Fall 2019]
+Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. [Spring  2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020]
 
+<a name="math299la"></a>
+#### Compulational Tools for Linear Algebra (MATH 299)
+In this class students will use computational tools such as Python to solve linear algebra problems in real world applications in science and engineering.
+[Spring 2020]
 
 <a name="cs199la"></a>
-#### Brushing up linear algebra and programming fundamentals using Python (CS 199)
+#### Brushing up Linear Algebra and Programming Fundamentals using Python (CS 199)
 In this class, students will review fundamentals of linear algebra and programming using python. Students will work in teams to create and/or complete jupyter notebooks, some of them addressing real world scenarios.
 [Fall 2019]
 
 <a name="cs199py"></a>
 #### Python for Data (CS 199)
 Introduces concepts for obtaining, analyzing, visualizing, and processing data from various sources. Covers image processing and feature identification, streaming data sources, text scraping, and basic elements of data analysis and machine learning.
-[Fall 2019]
+[Fall 2019, Spring 2020]
 
 <a name="cs199ap"></a>
 #### Real World Cases in Scientific Computing (CS 199)

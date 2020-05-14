@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald|Roboto+Condensed&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/mfsilva.css">
+
+    <title>Mariana Silva</title>
+  </head>
+  <body style="background-color: hsla(22, 100%, 97%, 1);">
+    <div class="container-fluid">
+
+      <div class="header container">
+        <div class="row">
+          <div class="col-md-4">
+            <h1><a href="/" style="color: black;">Mariana Silva</a></h1>
+          </div>
+          <nav class="col-md-8 mfsilva-nav">
+            <div class="text-right">
+              <a href="/">Home</a>
+              <a href="/teaching">Teaching</a>
+              <a href="/research">Research</a>
+              <a href="/publications">Publications</a>
+              <!-- <a href="/examples">Examples</a> -->
+            </div>
+          </nav>
+        </div>
+      </div>
+
+      <div class="container content-container">
+        <div class="content-color-bar"></div>
+        <div class="content">
+            <div class="content-title">Short-coding questions implemented via PrairieLearn</div>
+            <p>Short-coding questions may appear in homework and quizzes. In both type of assessments, I allow students to have unlimited attempts, without getting any penalty for having the question marked as incorrect.</p>
+
+<h4 id="a-example-with-randomized-variables-that-are-displayed-in-the-problem-statement">a) Example with randomized variables that are displayed in the problem statement:</h4>
+
+<p>The highlighted parameters are generated at random by the setup code and displayed in the problem statement.
+The use of randomized parameters helps mitigating some of the cheating that may appear during asynchronous quizzes</p>
+
+<figure class="figure">
+   <img src="/pages/images/drug_metabolism.png" alt="" style="display: block; margin-left: auto; margin-right: auto; padding-bottom:20px; max-height: 600px; max-width: 90%;  clear:" />
+ </figure>
+
+<h4 id="b-example-with-randomized-variables-that-are-provided-by-the-setup-code">b) Example with randomized variables that are provided by the setup code:</h4>
+
+<p>In this other example, the variables <code class="highlighter-rouge">emp_yoe</code>, <code class="highlighter-rouge">emp_salaries</code> and <code class="highlighter-rouge">cand_yoe</code> are generated randomly by the setup code, such that students get different datasets to solve the question.</p>
+
+<figure class="figure">
+    <img src="/pages/images/coding_interpolation_salary.png" alt="" style="display: block; margin-left: auto; margin-right: auto; padding-bottom:20px; max-height: 700px; max-width: 90%;  clear:" />
+  </figure>
+
+<p>The test code will check for typical conceptual mistakes students make in this type of question, and attempt to get meaningful feedback to guide students towards the correct solution. The figure below illustrates some of the typical mistakes students will make in this question, and the feedback message provided by the test code.</p>
+
+<figure class="figure border m-3">
+    <img src="/pages/images/prompt1.png" alt="" style="display: block; margin-left: auto; margin-right: auto; padding-top:20px; padding-bottom:20px; max-height: 700px; max-width: 90%;  clear:" />
+  </figure>
+
+<figure class="figure border m-3">
+    <img src="/pages/images/prompt2.png" alt="" style="display: block; margin-left: auto; margin-right: auto; padding-top:20px; padding-bottom:20px; max-height: 700px; max-width: 90%;  clear:" />
+  <figcaption class="figure-caption text-center"> Complete feedback hint: It looks like you found the coefficients of your model, and not the 'offers' variable. You need one more step to complete the question!</figcaption>
+  </figure>
+
+<figure class="figure border m-3">
+     <img src="/pages/images/prompt3.png" alt="" style="display: block; margin-left: auto; margin-right: auto; padding-top:20px; padding-bottom:20px; max-height: 700px; max-width: 90%;  clear:" />
+   <figcaption class="figure-caption text-center"> Complete feedback hint: It looks like you found the coefficients of your model. You now need to use 'cand_yoe' to determine 'offers'.</figcaption>
+   </figure>
+
+<figure class="figure border m-3">
+      <img src="/pages/images/prompt4.png" alt="" style="display: block; margin-left: auto; margin-right: auto; padding-top:20px; padding-bottom:20px; max-height: 700px; max-width: 90%;  clear:" />
+    <figcaption class="figure-caption text-center"> Complete feedback hint: It looks like you found the coefficients of your model but you are not using them in the correct order to determine 'offers'.</figcaption>
+    </figure>
+
+        </div>
+      </div>
+
+      <div class="container contact-container">
+        <div class="content">
+          <h3>Contact information</h3>
+          <p>Mariana Silva <br />
+          2213 Siebel Center <br />
+          (217) 300-6633 <br />
+          mfsilva@illinois.edu</p>
+        </div>
+          <div class="content-color-bar"></div>
+      </div>
+
+    </div>
+
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

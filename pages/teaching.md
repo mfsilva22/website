@@ -39,16 +39,25 @@ I have taught eight different undergraduate courses with over 4700 students, fro
       <a href="https://relate.cs.illinois.edu/course/cs357-s18/" target="blank">Spring 2018</a>,
       <a href="https://relate.cs.illinois.edu/course/cs357-f18/" target="blank">Fall 2018</a>,
       <a href="https://relate.cs.illinois.edu/course/cs357-s19/" target="blank">Spring 2019</a>,
-      <a href="https://courses.engr.illinois.edu/cs357/fa2019/" target="blank">Fall 2019</a>
+      <a href="https://courses.engr.illinois.edu/cs357/fa2019/" target="blank">Fall 2019</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/sp2020/" target="blank">Spring 2020</a>
       </td>
     </tr>
     <tr>
-      <td> Brushing up linear algebra and programming skills using Python </td>
+      <td> Computational Tools for Linear Algebra </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/math299_sp20.html" target="blank">Spring 2020</a> </td>
+    </tr>
+    <tr>
+      <td> Brushing up Linear Algebra and Programming Fundamentals using Python </td>
       <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199_fa19.html" target="blank">Fall 2019</a> </td>
     </tr>
     <tr>
       <td> Python for Data </td>
-      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs199py_fa19.html" target="blank">Fall 2019</a> </td>
+      <td>
+          <a href="{{ site.baseurl }}/pages/old_syllabus/cs199py_fa19.html" target="blank">Fall 2019</a>,
+          <a href="{{ site.baseurl }}/pages/old_syllabus/cs199py_sp20A.html" target="blank">Spring 2020 - Pot A</a>,
+          <a href="{{ site.baseurl }}/pages/old_syllabus/cs199py_sp20B.html" target="blank">Spring 2020 - Pot B</a>
+      </td>
     </tr>
     <tr>
       <td> Real World Cases in Scientific Computing </td>

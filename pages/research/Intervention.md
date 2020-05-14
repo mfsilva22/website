@@ -7,6 +7,16 @@ header:  Prediction of student's performance to guide earlier and effective inte
 One of the challenges of teaching large upper-division undergraduate classes with multiple prerequisites is figuring out how much we can assume as prior knowledge, and what we should include as review.
 For example, one of the classes I teach requires Python as programming language, however not every student that takes the class has prior experience with Python. Moreover, the overall programming skill level is not uniform among the students, which can be partially explained due to the large diversity of majors in the class (44% CS, 19% CS + X, 19% Engineering and 18% other majors). This disparity in programming background can greatly affect the overall students' experience in the classroom and potentially their overall course performance.
 
+The motivation of this study was based on two research questions:
+
+
+RQ1: Can performance from assessments in the beginning of a course corresponding to
+prerequisite content be used to predict performance at the end of the semester?
+
+
+RQ2: Can we improve the student experience in a course by implementing interventions
+based on the results of these early predictions?
+
  <img src="{{ site.baseurl }}/pages/images/ROC.png" alt="" style="float: right; margin-left: 25px; max-height: 350px; max-width: 50%;  clear:">
 
 I used data from my own course in Fall 2018 and Spring 2019 semesters to train a model using machine learning (ML) algorithms for early prediction of students that were at risk of lower performance. The assumptions for this study were:
@@ -20,11 +30,9 @@ model sensitivity was 65% (students "at-risk" that were predicted correctly), th
 
 <div style="clear: both"></div>
 
-The trained model using data from Fall 2018 and Spring 2019 was used to predict students “at-risk” of low performance at the end of week 2 in Fall 2019. Students that were identified as “at-risk” received an invitation to join a 1 credit-hour course that I developed to  help students improving their python basic skills. Out of the 60 students that received the invitation, 24 accepted and joined the short course that started on week 3. The class met once a week for 80 minutes, and was held in an active learning classroom, where each group table had a large computer monitor and a white board. Students were split into groups of 5 and given a programming problem that required the entire group to collaborate. The tasks involved real world examples, designed in a structured way to allow students to complete the solution on their own, without a lot of guidance from the instructors (
+The trained model using data from Fall 2018 and Spring 2019 was used to predict students “at-risk” of low performance at the end of week 2 in Fall 2019. Students that were identified as “at-risk” received an invitation to join a 1 credit-hour course that I developed to  help students improving their python basic skills. Out of the 75 students that were
+identified as at-risk, only 11 joined the discussion section that started on week 3. Students that
+were not predicted as at-risk were also aware of this additional discussion section, and 13 of them
+requested to participate. The class met once a week for 80 minutes, and was held in an active learning classroom, where each group table had a large computer monitor and a white board. Students were split into groups of 5 and given a programming problem that required the entire group to collaborate. The tasks involved real world examples, designed in a structured way to allow students to complete the solution on their own, without a lot of guidance from the instructors (
 <a href="{{ site.baseurl }}/pages/examples/Monte-Carlo-Methods-student.html" target="blank">lesson 2</a> and <a href="{{ site.baseurl }}/pages/examples/Week6-student.html" target="blank">lesson 4</a>
-examples). A faculty from a different department conducted focus groups with students in the class to capture their perceptions of the course. I will be looking at student grades at the end of the semester, combined with focus groups feedback and surveys, to evaluate the impact of the intervention, and provide guidance for future semesters.
-
-
-<small>
-Silva M., Nytko N., Shaffer E., Amos J., “A case study of early performance prediction and intervention in a computer science course”, abstract accepted to ASEE 2020.
-</small>
+examples). A faculty from a different department conducted focus groups with students in the class to capture their perceptions of the course. Results from this study are summarized in this paper: Silva M., Nytko N., Shaffer E., Amos J., “A case study of early performance prediction and intervention in a computer science course”, abstract accepted to ASEE 2020.

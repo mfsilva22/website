@@ -28,6 +28,6 @@ Based on this feedback, I created additional IPython notebooks for lecture demos
 
 ### Examples:
 
-- Markov chain lecture activity: [<a href="{{ site.baseurl }}/pages/examples/CA5-Markov-chains-student.html" target="blank">HTML</a>] [<a href="https://mybinder.org/v2/gh/cs357/demos-cs357/master?filepath=/CA5-markov/CA5-Markov-chains-student.ipynb" target="blank">IPython notebook</a>]
+- Markov chain lecture activity: [<a href="{{ site.baseurl }}/pages/examples/CA5-Markov-chains-student.html" target="blank">HTML</a>]
 
 - Building trusses MP: [<a href="{{ site.baseurl }}/pages/examples/MP_truss.pdf" target="blank">PDF</a>]

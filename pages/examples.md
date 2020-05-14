@@ -25,7 +25,7 @@ header: Examples of course material
 <a name="flipped"></a>
 #### (Flipped) Lecture activity
 
-- Markov chain: <a href="{{ site.baseurl }}/pages/examples/CA5-Markov-chains-student.html" target="blank">IPython Notebook</a>, <a href="https://mybinder.org/v2/gh/cs357/demos-cs357/master?filepath=/CA5-markov/CA5-Markov-chains-student.ipynb" target="blank">Interactive (binder)</a>
+- Markov chain: <a href="{{ site.baseurl }}/pages/examples/CA5-Markov-chains-student.html" target="blank">IPython Notebook</a>, <a href="https://colab.research.google.com/github/cs357/demos-cs357/blob/master/13-markov.ipynb" target="blank">Interactive (Google Colab)</a>
 
 
 <a name="PL_questions"></a>

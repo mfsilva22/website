@@ -36,4 +36,4 @@ A survey collected at the end of the semester indicated that students highly pre
 
 
 <p><small>
-Silva M, Zilles C., West M., “Measuring the score advantage on asynchronous exams in an undergraduate CS course”, submitted and accepted to appear in SIGCSE 2020.</small></p>
+Silva M., Zilles C., West M., <a href="https://dl.acm.org/doi/pdf/10.1145/3328778.3366859">"Measuring the score advantage on asynchronous exams in an undergraduate CS course"</a>, Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE 2020), https://doi.org/10.1145/3328778.3366859, 2020.</small></p>
