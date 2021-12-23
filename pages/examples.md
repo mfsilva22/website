@@ -14,22 +14,31 @@ header: Examples of course material
 
 - Axial deformation: <a href="{{ site.baseurl }}/pages/examples/TAM251_Chapter4_prelecture.pdf" target="blank">Pre-lecture</a>, <a href="{{ site.baseurl }}/pages/examples/TAM251-postlecture.pdf" target="blank">Post-lecture</a>
 
+
+<a name="PL_demos"></a>
+#### IPython demos in PrairieLearn
+
+- [Public Numerical Methods demos](https://www.prairielearn.org/pl/course_instance/128953)
+
+
+<a name="colab_activity"></a>
+#### Collaborative learning activities
+
+- Programming-based activities: <a href="{{ site.baseurl }}/pages/examples/Monte-Carlo-Methods-student.html" target="blank">game of craps and random walk</a>, <a href="{{ site.baseurl }}/pages/examples/Week6-student.html" target="blank">image texture and spot the difference</a>, <a href="{{ site.baseurl }}/pages/examples/CA5-Markov-chains-student.html" target="blank">Markov chains</a>, <a href="{{ site.baseurl }}{% link pages/examples/ImageMatrices.pdf %}">Find Waldo</a>
+
+- Hand-written activities: <a href="{{ site.baseurl }}/pages/examples/Worksheet03.pdf" target="blank">design of tailgate cables</a>, <a href="{{ site.baseurl }}/pages/examples/Worksheet08.pdf" target="blank">bike spindle</a>, <a href="{{ site.baseurl }}/pages/examples/Worksheet14.pdf" target="blank">guitar neck</a>.
+
+
 <a name="clicker"></a>
-#### Clicker questions for lecture
+#### Short quiz questions for lecture
 
 - <a href="{{ site.baseurl }}/pages/examples/iclicker_examples.pdf" target="blank">Numerical methods examples</a>
 
 - <a href="{{ site.baseurl }}/pages/examples/TAM251-clicker-questions.pdf" target="blank">Solid Mechanics examples</a>
 
 
-<a name="flipped"></a>
-#### (Flipped) Lecture activity
-
-- Markov chain: <a href="{{ site.baseurl }}/pages/examples/CA5-Markov-chains-student.html" target="blank">IPython Notebook</a>, <a href="https://colab.research.google.com/github/cs357/demos-cs357/blob/master/13-markov.ipynb" target="blank">Interactive (Google Colab)</a>
-
-
 <a name="PL_questions"></a>
-#### Homework and quiz questions (PrairieLearn)
+#### Homework and quiz questions for frequent assessments (PrairieLearn)
 
 - [Non-coding questions]({{ site.baseurl }}{% link pages/examples/non_coding_pl.md %})
 
@@ -38,10 +47,3 @@ header: Examples of course material
 - <a href="{{ site.baseurl }}/pages/examples/MP_truss.pdf" target="blank">Long-coding (Machine Problems) questions</a>
 
 - [Drawing questions]({{ site.baseurl }}{% link pages/examples/drawing_pl.md %})
-
-<a name="colab_activity"></a>
-#### Collaborative learning activities
-
-- Programming-based activities: <a href="{{ site.baseurl }}/pages/examples/Monte-Carlo-Methods-student.html" target="blank">game of craps and random walk</a>, <a href="{{ site.baseurl }}/pages/examples/Week6-student.html" target="blank">image texture and spot the difference</a>.
-
-- Hand-written activities: <a href="{{ site.baseurl }}/pages/examples/Worksheet03.pdf" target="blank">design of tailgate cables</a>, <a href="{{ site.baseurl }}/pages/examples/Worksheet08.pdf" target="blank">bike spindle</a>, <a href="{{ site.baseurl }}/pages/examples/Worksheet14.pdf" target="blank">guitar neck</a>.

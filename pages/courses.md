@@ -9,7 +9,13 @@ header: List of courses taught
 <a name="cs357"></a>
 #### Numerical Methods 1 (CS 357)
 
-Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. [Spring  2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020]
+Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. [Spring  2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021]
+
+
+<a name="math415"></a>
+#### Applied Linear Algebra (MATH 415 - PL1 section)
+
+Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems. This section has a special focus on incorporating linear algebra concepts with computational tools in real world science and engineering applications. There is a required Python lab in place of a lecture on Fridays. For more details, please see [https://go.illinois.edu/MATH415PL1](https://go.illinois.edu/MATH415PL1). [Fall 2020]
 
 <a name="math299la"></a>
 #### Compulational Tools for Linear Algebra (MATH 299)

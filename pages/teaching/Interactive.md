@@ -13,12 +13,17 @@ Some of my lectures follow a <a href="{{ site.baseurl }}{% link pages/examples.m
 
 Read more: [Bringing additional real-world examples to lecture]({{ site.baseurl }}{% link pages/teaching/ProgrammingExamples.md %})
 
-### Implementing collaborative learning activities in small discussion sections
+### Collaborative learning activities
 
-Large classes are often linked to smaller discussion sections, where students have the opportunity to work on problem solving skills. Historically, teaching assistants assigned to discussion sections were expected to solve a set of given problems on the blackboard, while students copied the solution. According to feedback, students did not get much out of these sections, and therefore attendance was low. In Fall 2013, I overhauled the discussion sections for an Introductory Solid Mechanics course, creating <a href="{{ site.baseurl }}{% link pages/examples.md %}/#colab_activity">group collaborative activities</a>  where students solved open-ended design problems, and/or hands-on activities. When students collaborate, there is often a rapid exchange of ideas that challenge students to think deeper on the underlying engineering principles. The learning goals for such classes do not only include understanding of technical content, but also practice of soft-skills such as creativity and critical thinking.
+Large classes are often linked to smaller discussion sections, where students have the opportunity to work on problem solving skills. Historically, teaching assistants assigned to discussion sections were expected to solve a set of given problems on the blackboard, while students copied the solution. According to feedback, students did not get much out of these sections, and therefore attendance was low. In Fall 2013, I overhauled the discussion sections for an Introductory Solid Mechanics course, creating <a href="{{ site.baseurl }}{% link pages/examples/Worksheet03.pdf %}">group collaborative activities</a>  where students solved open-ended design problems, and/or hands-on activities.
+
+In Fall 2020, motivated to get students to interact in the classroom while teaching Numerical Methods, I flipped the lecture format and developed new collaborative learning activities. Students are now assigned to groups of 3-4 (either in-person or Zoom breakout rooms) where they work together to complete the <a href="{{ site.baseurl }}{% link pages/examples/ImageMatrices.pdf %}">IPython notebooks using PrairieLearn</a>. Computational exercises are synchronized in real-time and provide automated feedback to students.
+
+When students collaborate, there is often a rapid exchange of ideas that challenge students to think deeper on the underlying engineering principles. The learning goals for such classes do not only include understanding of technical content, but also practice of soft-skills such as creativity and critical thinking.
+
 
 Read more:
 
 - [How I transformed a classroom from traditional to active learning style]({{ site.baseurl }}{% link pages/teaching/Active_classroom.md %})
 
-- [Using synced tablets to increase collaboration]({{ site.baseurl }}{% link pages/research/Collaborative_Learning_Large_Classes.md %})
+- [Using digital tools to increase collaboration]({{ site.baseurl }}{% link pages/research/Collaborative_Learning_Large_Classes.md %})
