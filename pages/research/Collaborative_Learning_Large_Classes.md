@@ -23,14 +23,9 @@ header: Using software to enhance collaboration
  <!-- Thus, as an extension of this project, we are in the initial stages of developing an open-source web-based solution similar to [CoCalc](https://cocalc.com/help?session=default) (a paid collaborative tool) where a group of students complete programming assignments on a shared project. -->
 
 <small>
-<<<<<<< HEAD
 Salim S., Lu L., Mercier E., Margotta A., Livingston E., Silva M., Tucker T., [“Towards the effective implementation of collaborative problem solving in undergraduate engineering classrooms: co-designing guidelines for teaching assistants”](https://www.asee.org/public/conferences/172/papers/29647/view), 127th American Society for Engineering Education Annual Conference and Exposition (ASEE 2020), 2020.\\
-Tucker T., Shehab S., Silva M., Mercier E. [“WIP: Evidence-based analysis of the design of collaborative problem-solving engineering tasks”](https://www.asee.org/public/conferences/140/papers/25919/view), 126th American Society for Engineering Education Annual Conference and Exposition (ASEE 2019), 2019.
-=======
-Salim S, Lu L, Margotta A, Livingston E, Tucker T, Silva M, Mercier E, “Towards the effective implementation of collaborative problem solving in undergraduate engineering classrooms: co-designing guidelines for teaching assistants”, ASEE 2020.\\
-Tucker T., Shehab S., Silva M., Mercier E. “Evidence-based analysis of the design of collaborative engineering tasks”, 2020 American Educational Research Association Annual Meeting, 2020.\\
+Tucker T., Shehab S., Silva M., Mercier E. [“WIP: Evidence-based analysis of the design of collaborative problem-solving engineering tasks”](https://www.asee.org/public/conferences/140/papers/25919/view), 126th American Society for Engineering Education Annual Conference and Exposition (ASEE 2019), 2019.\\
 Grant: "Improving collaborative learning in engineering classes through integrated tools for instructors and students", National Science Foundation (NSF) Cyberlearning Design and Implementation. Research team: Emma Mercier, Luc Paquette and Mariana Silva, 2016-2020.\\
->>>>>>> 07facb696546ae48ca7ee290bf36bb712ccc0cf5
 </small>
 
 ### Computer-based collaborative tool with auto-grading and immediate feedback
