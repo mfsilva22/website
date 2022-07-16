@@ -6,7 +6,7 @@ header: Teaching Activities and Innovations
 
 ## Teaching philosophy
 
-I have taught eight different undergraduate courses with over 4700 students, from freshman to senior level. Throughout my teaching I observed and improved how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
+I have taught eight different undergraduate courses with over 7200 students, from freshman to senior level. Throughout my teaching I observed and improved how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
 
 
  <!-- I have taught eight different undergraduate courses with over 4700 students, varying from freshman to senior level classes. Through all of these teaching experiences, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning,
@@ -40,7 +40,11 @@ I have taught eight different undergraduate courses with over 4700 students, fro
       <a href="https://relate.cs.illinois.edu/course/cs357-f18/" target="blank">Fall 2018</a>,
       <a href="https://relate.cs.illinois.edu/course/cs357-s19/" target="blank">Spring 2019</a>,
       <a href="https://courses.engr.illinois.edu/cs357/fa2019/" target="blank">Fall 2019</a>,
-      <a href="https://courses.engr.illinois.edu/cs357/sp2020/" target="blank">Spring 2020</a>
+      <a href="https://courses.engr.illinois.edu/cs357/sp2020/" target="blank">Spring 2020</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/fa2020/" target="blank">Fall 2020</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/sp2021/" target="blank">Spring 2021</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/fa2021/" target="blank">Fall 2021</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/sp2022/" target="blank">Spring 2022</a>
       </td>
     </tr>
     <tr>

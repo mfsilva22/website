@@ -21,6 +21,6 @@ header: Using software to enhance collaboration
  However, this web-based application only allows for hand-written solutions using tablets. Thus, as an extension of this project, we are in the initial stages of developing an open-source web-based solution similar to [CoCalc](https://cocalc.com/help?session=default) (a paid collaborative tool) where a group of students complete programming assignments on a shared project.
 
 <small>
-Salim S, Lu L, Margotta A, Livingston E, Tucker T, Silva M, Mercier E, “Towards the effective implementation of collaborative problem solving in undergraduate engineering classrooms: co-designing guidelines for teaching assistants”, accepted to appear in ASEE 2020.\\
-Tucker T., Shehab S., Silva M., Mercier E. “Evidence-based analysis of the design of collaborative engineering tasks”, Paper accepted to appear in the 2020 American Educational Research Association Annual Meeting, 2020.\\
+Salim S., Lu L., Mercier E., Margotta A., Livingston E., Silva M., Tucker T., [“Towards the effective implementation of collaborative problem solving in undergraduate engineering classrooms: co-designing guidelines for teaching assistants”](https://www.asee.org/public/conferences/172/papers/29647/view), 127th American Society for Engineering Education Annual Conference and Exposition (ASEE 2020), 2020.\\
+Tucker T., Shehab S., Silva M., Mercier E. [“WIP: Evidence-based analysis of the design of collaborative problem-solving engineering tasks”](https://www.asee.org/public/conferences/140/papers/25919/view), 126th American Society for Engineering Education Annual Conference and Exposition (ASEE 2019), 2019.
 </small>

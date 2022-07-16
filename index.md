@@ -7,9 +7,9 @@ layout: home
 header:  About me
 ---
 
-<img src="{{ "/static/mfsilva_snow.jpg" | relative_url }}" alt="Mariana Silva" style="float: left; margin-right: 25px; max-height: 250px; max-width: 50%; border: solid 1px black; clear:">
+<img src="{{ "/static/mfsilva_snow.jpg" | relative_url }}" alt="Mariana Silva" style="float: left; margin-right: 25px; max-height: 280px; max-width: 50%; border: solid 1px black; clear:">
 
-I have been innovating teaching, content, and assessments in large-scale classes such as Numerical Methods, Solid Mechanics and Statics. I am very passionate about teaching and improving the classroom experience for both students and instructors. My current research focuses on the use of web-tools for collaborative activities during lectures, and on the development of online assessments for computer-based testing.  
+I have been innovating teaching, content, and assessments in large-scale classes such as Numerical Methods, Solid Mechanics and Statics. I am very passionate about teaching and improving the classroom experience for both students and instructors. My current research focuses on the use of web-tools for collaborative activities during lectures, and on the development and innovations of computer-based assessments.  
 
 In this website, I describe technological innovations that I have adopted in my classes or developed to help other instructors: (1) [online assessments](teaching/online_assessments/) with auto-graders, (2) bi-weekly [asynchronous tests](research/async_test/) using a computer-based testing facility, (3) [synchronized computers](research/collaborative_learning/) to enhance collaborative activities, (4) a web-app to [assign students to group projects](research/junto/), and (5) an online [drawing tool for sketches](research/drawing_tool/) that are auto-graded.
 
@@ -17,12 +17,10 @@ In this website, I describe technological innovations that I have adopted in my 
 
 ### Biography:
 
-Mariana Silva is a Teaching Assistant Professor in Computer Science at the University of Illinois at Urbana-Champaign. Before joining CS@Illinois in 2017, she was a lecturer in the Department of Mechanical Science and Engineering for 5 years. She received her Bachelor’s and Master’s degrees in mechanical engineering from the Federal University of Rio de Janeiro, Brazil and earned a PhD in Theoretical and Applied Mechanics from the University of Illinois in 2009. Her
-doctoral research focused on the theory, computation, and design optimization of physical systems governed by partial differential equations. It addressed problems in the areas of static and transient structural topology optimization, material design, energy mitigation, fracture mechanics and robust optimization. Mariana's current educational research focuses on the exploration of technological innovations for large-scale teaching, such as the development of online course assessments.
+Mariana Silva is a Teaching Associate Professor in Computer Science at the University of Illinois at Urbana-Champaign. Before joining CS@Illinois in 2017, she was a lecturer in the Department of Mechanical Science and Engineering for 5 years. She received her Bachelor’s and Master’s degrees in mechanical engineering from the Federal University of Rio de Janeiro, Brazil and earned a PhD in Theoretical and Applied Mechanics from the University of Illinois in 2009. Her
+doctoral research focused on the theory, computation, and design optimization of physical systems governed by partial differential equations. It addressed problems in the areas of static and transient structural topology optimization, material design, energy mitigation, fracture mechanics and robust optimization.
 
-
-
-
+Silva is an expert in the use of computer-based tools for teaching and learning in large STEM university courses, with extensive experience in course development for engineering, computer science, and mathematics. Her educational research focuses on the use of computerized assessment and collaborative learning in higher education. Silva was a research collaborator in the NSF Cyberlearning Grant, “DIP: Improving Collaborative Learning in Engineering Classes through Integrated Tools,” where she was responsible for creating the weekly collaborative activities, training course staff to support these classes and helping with the development of a software that allows synchronized editing via tablets during in-person classes. She is currently the PI for the NSF IUSE Grant “Enhancing equity and access via digitally-mediated collaborative learning experiences” which aims to explore the interconnections between online learning, equity, and access.
 
 <!-- #### Contact information
 

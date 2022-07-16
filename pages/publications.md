@@ -4,13 +4,20 @@ permalink: /publications/
 header: Publications
 ---
 
-0.	Silva M., Shaffer E., Nytko N., Amos J., “A case study of early performance prediction and intervention in a computer science course”, accepted to appear in ASEE 2020.
 
-0.	Mohan A., Dey P., Tan S., Johnson B., Fagen-Ulmschneider W., Silva, M., “Introducing junto: a web tool to build project teams based on a bidding strategy”, accepted to appear in ASEE 2020.
+0.  Silva M., Hieronymi P., West M., Nytko N., Deshpande A., Chuang J., Hilgenfeldt S., “Innovating and modernizing a Linear Algebra class through teaching computational skills”, Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.
 
-0.	Nytko N., West M., Silva M., “A simple and efficient markup tool to generate drawing-based online assessments”, accepted to appear in ASEE 2020.
+0.  Herman G., Jiang Y., Jiang Y., Poulsen S., West M., Silva M., “An Analytic Comparison of Student-Scheduled and Instructor-Scheduled Collaborative Learning in Online Contexts”,  Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.
 
-0.	Salim S., Lu L., Mercier E., Margotta A., Livingston E., Silva M., Tucker T., “Towards the effective implementation of collaborative problem solving in undergraduate engineering classrooms: co-designing guidelines for teaching assistants”, accepted to appear in ASEE 2020.
+0.  West M., Walters N., Silva M., Bretl T., Zilles C., [“Integrating Diverse Learning Tools using the PrairieLearn Platform”](https://cssplice.github.io/SIGCSE21/proc/SPLICE2021_SIGCSE_paper_10.pdf), 7th SPLICE Workshop at SIGCSE 2021 “CS Education Infrastructure for All III: From Ideas to Practice”, SPLICE’21, Virtual Event, March 15-16, 2021.
+
+0.	Silva M., Shaffer E., Nytko N., Amos J., [“A case study of early performance prediction and intervention in a computer science course”](https://www.asee.org/public/conferences/172/papers/29449/view), 127th American Society for Engineering Education Annual Conference and Exposition (ASEE 2020), 2020.
+
+0.	Mohan A., Dey P., Tan S., Johnson B., Fagen-Ulmschneider W., Silva, M., [“Introducing junto: a web tool to build project teams based on a bidding strategy”](https://www.asee.org/public/conferences/172/papers/29460/view), 127th American Society for Engineering Education Annual Conference and Exposition (ASEE 2020), 2020.
+
+0.	Nytko N., West M., Silva M., [“A simple and efficient markup tool to generate drawing-based online assessments”](https://www.asee.org/public/conferences/172/papers/29456/view), 127th American Society for Engineering Education Annual Conference and Exposition (ASEE 2020), 2020.
+
+0.	Salim S., Lu L., Mercier E., Margotta A., Livingston E., Silva M., Tucker T., [“Towards the effective implementation of collaborative problem solving in undergraduate engineering classrooms: co-designing guidelines for teaching assistants”](https://www.asee.org/public/conferences/172/papers/29647/view), 127th American Society for Engineering Education Annual Conference and Exposition (ASEE 2020), 2020.
 
 0.	Silva M., Zilles C., West M., [“Measuring the score advantage on asynchronous exams in an undergraduate CS course”](https://dl.acm.org/doi/pdf/10.1145/3328778.3366859), Proceedings of the 51st ACM Technical Symposium on Computer Science Education (SIGCSE 2020), https://doi.org/10.1145/3328778.3366859, 2020.
 

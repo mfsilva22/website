@@ -29,6 +29,8 @@ I started using PL in Fall 2015, becoming the second user of this online learnin
 
 <small>
 "Growing the PrairieLearn", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Tim Bretl, Jenny Amos, Geoffrey Herman, Mariana Silva, Craig Zilles, Dave Mussulman, Tim Stelzer, Dallas Trinkle and Matthew West, 2017-2020.\\
+"Remote testing with PrairieLearn", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Tim Bretl, Geoffrey Herman, Craig Zilles,  Mariana Silva, Dave Mussulman, and Matthew West, 2020-2021.\\
+"PrairieLearn", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Tim Bretl, Geoffrey Herman, Craig Zilles,  Mariana Silva, Dave Mussulman, and Matthew West, 2021-present.\\
 </small>
 
 ### 3) Bringing computational tools to a linear algebra course
@@ -38,8 +40,17 @@ Since Fall 2019, a team of faculty from Mathematics, Computer Science and Mechan
 
 One of my contributions to this project is to create the computer laboratory assignments, which will be implemented as collaborative learning activities during small discussion sections. To start developing the material, we opened a <a href="{{ site.baseurl }}/pages/old_syllabus/math299_sp20.html" target="blank">1-credit-hour course</a> to James Scholar students registered in MATH 415 in Spring 2020. In Fall 2020, we will be opening these laboratory sections to all 300 students registered in [one of the sections of MATH 415](https://go.illinois.edu/MATH415PL1).
 
-In order to measure the impact of these innovations and perform longitudinal studies, I developed a linear algebra concept inventory using the PL system, and offered these assessment as an optional quiz during the first week of my Numerical Methods class in Fall 2019 and Spring 2020. This concept inventory was also offered to students from other classes, and we have data from more than 1000 students, ranging from freshman to seniors. 
+In order to measure the impact of these innovations and perform longitudinal studies, I developed a linear algebra concept inventory using the PL system, and offered these assessment as an optional quiz during the first week of my Numerical Methods class in Fall 2019 and Spring 2020. This concept inventory was also offered to students from other classes, and we have data from more than 1000 students, ranging from freshman to seniors.
 
 <small>
-"Early Instruction in Linear Algebra and Computational Tools in the Curricula of CS, MechSE, and the College of Engineering", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Sasha Hilgenfeldt, Philipp Hieronymi, Luke Olson, Mariana Silva and Matthew West, 2019-2020.
+"Early Instruction in Linear Algebra and Computational Tools in the Curricula of CS, MechSE, and the College of Engineering", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Sasha Hilgenfeldt, Philipp Hieronymi, Luke Olson, Mariana Silva and Matthew West, 2019-present.
+</small>
+
+### 4) Incorporating Python into the engineering curriculum
+
+Based on the successfull re-design of the linear algebra course, we are now incorporating similar computational Python-based lessons to other introductory courses that are required to many engineering programs, starting with Statics and Differential Equations. My current role is to mentor instructors teaching these courses, and interacting with undergraduate and graduate teaching assistants, to support the development and implementation of the Python-based activities.
+
+
+<small>
+"Python Working Group", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Sasha Hilgenfeldt, Jared Bronski, Wayne Chang, Neal Davis Mariana Silva and Matthew West, 2021-present.
 </small>
