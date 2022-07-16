@@ -18,18 +18,10 @@ In this website, I describe technological innovations that I have adopted in my 
 ### Biography:
 
 Mariana Silva is a Teaching Associate Professor in Computer Science at the University of Illinois at Urbana-Champaign. Before joining CS@Illinois in 2017, she was a lecturer in the Department of Mechanical Science and Engineering for 5 years. She received her Bachelor’s and Master’s degrees in mechanical engineering from the Federal University of Rio de Janeiro, Brazil and earned a PhD in Theoretical and Applied Mechanics from the University of Illinois in 2009. Her
-<<<<<<< HEAD
 doctoral research focused on the theory, computation, and design optimization of physical systems governed by partial differential equations. It addressed problems in the areas of static and transient structural topology optimization, material design, energy mitigation, fracture mechanics and robust optimization.
 
 Silva is an expert in the use of computer-based tools for teaching and learning in large STEM university courses, with extensive experience in course development for engineering, computer science, and mathematics. Her educational research focuses on the use of computerized assessment and collaborative learning in higher education. Silva was a research collaborator in the NSF Cyberlearning Grant, “DIP: Improving Collaborative Learning in Engineering Classes through Integrated Tools,” where she was responsible for creating the weekly collaborative activities, training course staff to support these classes and helping with the development of a software that allows synchronized editing via tablets during in-person classes. She is currently the PI for the NSF IUSE Grant “Enhancing equity and access via digitally-mediated collaborative learning experiences” which aims to explore the interconnections between online learning, equity, and access.
 
-=======
-doctoral research focused on the theory, computation, and design optimization of physical systems governed by partial differential equations. It addressed problems in the areas of static and transient structural topology optimization, material design, energy mitigation, fracture mechanics and robust optimization. Mariana's current educational research focuses on the exploration of technological innovations for large-scale teaching, such as the development of online course assessments.
-
-
-
-
->>>>>>> 07facb696546ae48ca7ee290bf36bb712ccc0cf5
 <!-- #### Contact information
 
 

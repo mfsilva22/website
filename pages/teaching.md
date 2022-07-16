@@ -6,11 +6,7 @@ header: Teaching Activities and Innovations
 
 ## Teaching philosophy
 
-<<<<<<< HEAD
 I have taught eight different undergraduate courses with over 7200 students, from freshman to senior level. Throughout my teaching I observed and improved how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
-=======
-I have taught ten different undergraduate courses with over 6000 students, from freshman to senior level. Throughout my teaching I observed how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
->>>>>>> 07facb696546ae48ca7ee290bf36bb712ccc0cf5
 
 
  <!-- I have taught eight different undergraduate courses with over 4700 students, varying from freshman to senior level classes. Through all of these teaching experiences, I have developed a teaching philosophy centered on three principles: (a) students learn better when they are able to construct their own knowledge through active learning,
@@ -47,12 +43,8 @@ I have taught ten different undergraduate courses with over 6000 students, from 
       <a href="https://courses.engr.illinois.edu/cs357/sp2020/" target="blank">Spring 2020</a>,
       <a href="https://courses.engr.illinois.edu/cs357/fa2020/" target="blank">Fall 2020</a>,
       <a href="https://courses.engr.illinois.edu/cs357/sp2021/" target="blank">Spring 2021</a>,
-<<<<<<< HEAD
       <a href="https://courses.engr.illinois.edu/cs357/fa2021/" target="blank">Fall 2021</a>,
       <a href="https://courses.engr.illinois.edu/cs357/sp2022/" target="blank">Spring 2022</a>
-=======
-      <a href="https://courses.engr.illinois.edu/cs357/fa2021/" target="blank">Fall 2021</a>
->>>>>>> 07facb696546ae48ca7ee290bf36bb712ccc0cf5
       </td>
     </tr>
     <tr>
