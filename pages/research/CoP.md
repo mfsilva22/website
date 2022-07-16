@@ -43,7 +43,8 @@ One of my contributions to this project is to create the computer laboratory ass
 In order to measure the impact of these innovations and perform longitudinal studies, I developed a linear algebra concept inventory using the PL system, and offered these assessment as an optional quiz during the first week of my Numerical Methods class in Fall 2019 and Spring 2020. This concept inventory was also offered to students from other classes, and we have data from more than 1000 students, ranging from freshman to seniors.
 
 <small>
-"Early Instruction in Linear Algebra and Computational Tools in the Curricula of CS, MechSE, and the College of Engineering", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Sasha Hilgenfeldt, Philipp Hieronymi, Luke Olson, Mariana Silva and Matthew West, 2019-present.
+ Silva M., Hieronymi P., West M., Nytko N., Deshpande A., Chuang J., Hilgenfeldt S., “Innovating and modernizing a Linear Algebra class through teaching computational skills”, Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.\\
+"Early Instruction in Linear Algebra and Computational Tools in the Curricula of CS, MechSE, and the College of Engineering", *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team: Sasha Hilgenfeldt, Philipp Hieronymi, Luke Olson, Mariana Silva and Matthew West, 2019-2022.
 </small>
 
 ### 4) Incorporating Python into the engineering curriculum

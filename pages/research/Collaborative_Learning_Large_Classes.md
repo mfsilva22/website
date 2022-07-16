@@ -4,6 +4,8 @@ permalink: research/collaborative_learning/
 header: Using software to enhance collaboration
 ---
 
+
+
 ### Collaborative software for hand-written solutions
 
  Collaborative learning activities provide the opportunity for students to construct their own knowledge, while helping other students simultaneously. After converting the discussion sections of two of my classes from traditional lecture-style to collaborative learning activities, I noticed that interactions among students were substantially improved when I replaced the old arm chairs with active learning furniture. However, some students were still working on their own printed worksheet without communicating with the rest of the group, despite of the physical arrangement.
@@ -28,6 +30,13 @@ Tucker T., Shehab S., Silva M., Mercier E. [“WIP: Evidence-based analysis of t
 Grant: "Improving collaborative learning in engineering classes through integrated tools for instructors and students", National Science Foundation (NSF) Cyberlearning Design and Implementation. Research team: Emma Mercier, Luc Paquette and Mariana Silva, 2016-2020.\\
 </small>
 
+
 ### Computer-based collaborative tool with auto-grading and immediate feedback
 
 coming soon.
+
+<small>
+Herman G., Jiang Y., Jiang Y., Poulsen S., West M., Silva M., “An Analytic Comparison of Student-Scheduled and Instructor-Scheduled Collaborative Learning in Online Contexts”,  Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.\\
+Internal Grant: “FACA project: Facilitating Adoption of Collaborative Activities using computer-based tools”,  *Strategic Instructional Innovations Program (SIIP) at UIUC*. Research team:  Mariana Silva, Abdu Alawini and Geoffrey Herman, 2020-2023.\\
+External Grant: “Enhancing Equity and Access Via Digitally-mediated Collaborative Learning Experiences”, National Science Foundation (NSF) Improving Undergraduate STEM Education (IUSE), Research team: Mariana Silva, Geoffrey Herman and Matthew West, 2021-2024.
+</small>

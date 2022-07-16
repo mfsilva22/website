@@ -31,3 +31,5 @@ My research work is often motivated by the challenges I encounter when I teach. 
 - [ Innovation and improvement of courses via community of practices ]({{ site.baseurl }}{% link pages/research/CoP.md %})
 
 - [ Development of a web-tool to build project teams based on student’s preferences ]({{ site.baseurl }}{% link pages/research/Junto.md %})
+
+- [Faculty Development Workshop]({{ site.baseurl }}{% link pages/research/iCEC.md %})
