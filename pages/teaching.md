@@ -149,3 +149,9 @@ I have taught eight different undergraduate courses with over 7200 students, fro
     </tr>
   </tbody>
 </table> -->
+
+## Teaching awards
+
+- [Rose Award for Teaching Excellence, 2022](https://cs.illinois.edu/about/awards/faculty-awards/university-illinois-awards), Grainger College of Engineering, University of Illinois at Urbana-Champaign 
+
+- [Scott H. Fisher Computer Science Teaching Award, 2022](https://cs.illinois.edu/about/awards/faculty-awards/university-illinois-awards), Computer Science, University of Illinois at Urbana-Champaign 
