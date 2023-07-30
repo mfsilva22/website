@@ -44,7 +44,9 @@ I have taught eight different undergraduate courses with over 7200 students, fro
       <a href="https://courses.engr.illinois.edu/cs357/fa2020/" target="blank">Fall 2020</a>,
       <a href="https://courses.engr.illinois.edu/cs357/sp2021/" target="blank">Spring 2021</a>,
       <a href="https://courses.engr.illinois.edu/cs357/fa2021/" target="blank">Fall 2021</a>,
-      <a href="https://courses.engr.illinois.edu/cs357/sp2022/" target="blank">Spring 2022</a>
+      <a href="https://courses.engr.illinois.edu/cs357/sp2022/" target="blank">Spring 2022</a>, 
+      <a href="https://courses.engr.illinois.edu/cs357/fa2022/" target="blank">Fall 2022</a>, 
+      <a href="https://courses.engr.illinois.edu/cs357/sp2023/" target="blank">Spring 2023</a>
       </td>
     </tr>
     <tr>

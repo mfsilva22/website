@@ -4,9 +4,19 @@ permalink: /publications/
 header: Publications
 ---
 
-0.  Silva M., Hieronymi P., West M., Nytko N., Deshpande A., Chuang J., Hilgenfeldt S., “Innovating and modernizing a Linear Algebra class through teaching computational skills”, Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.
+0.	Morgan F., Butler L., Alawini A., Herman G., Silva M., [“Developing tools, pedagogies, and policies for computer-based collaborative learning activities”](https://peer.asee.org/board-254-developing-tools-pedagogies-and-policies-for-computer-based-collaborative-learning-activities), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.
 
-0.  Herman G., Jiang Y., Jiang Y., Poulsen S., West M., Silva M., “An Analytic Comparison of Student-Scheduled and Instructor-Scheduled Collaborative Learning in Online Contexts”,  Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.
+0.	Gulati R., West M., Zilles C., Silva M., [“Comparing Student Outcomes in Online vs. In-person Sections of an On-campus Computer Science Course”](https://peer.asee.org/comparing-student-outcomes-in-online-vs-in-person-sections-of-an-on-campus-computer-science-course0), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.
+
+0.	Zhao C., West M., Silva M., [“How much deadline flexibility on formative assessments should we be giving to our students?”](https://peer.asee.org/how-much-deadline-flexibility-on-formative-assessments-should-we-be-giving-to-our-students), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.
+
+0. Chen H., West M., Hilgenfeldt S., Silva M., [“Measuring the Impact of a Computational Linear Algebra Course on Students' Exam Performance in a Subsequent Numerical Methods Course”](https://dl.acm.org/doi/10.1145/3545945.3569778), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), 2023.
+
+0. Garcia D., Fox A., Zilles C., West M., Silva M., Terrell N., Russell S., Ambrosio E., Shakir F., [“A’s for All (as Time and Interest Allow)”](https://dl.acm.org/doi/abs/10.1145/3545945.3569847), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), 2023.
+
+0.  Silva M., Hieronymi P., West M., Nytko N., Deshpande A., Chuang J., Hilgenfeldt S., [“Innovating and modernizing a Linear Algebra class through teaching computational skills”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiM_J_Ohc_8AhVBkokEHXueDO0QFnoECAsQAQ&url=https%3A%2F%2Fpeer.asee.org%2Finnovating-and-modernizing-a-linear-algebra-class-through-teaching-computational-skills.pdf&usg=AOvVaw1yd1D_sdeJGwvS7ErGWyW-), Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.
+
+0.  Herman G., Jiang Y., Jiang Y., Poulsen S., West M., Silva M., [“An Analytic Comparison of Student-Scheduled and Instructor-Scheduled Collaborative Learning in Online Contexts”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjM7LSBhs_8AhXllYkEHfvyCHIQFnoECBcQAQ&url=https%3A%2F%2Fpeer.asee.org%2Fan-analytic-comparison-of-student-scheduled-and-instructor-scheduled-collaborative-learning-in-online-contexts.pdf&usg=AOvVaw0H1_ik5NrmAjXSLv35XKbI),  Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.
 
 0. West M., Walters N., Silva M., Bretl T., Zilles C., [“Integrating diverse learning tools using the PrairieLearn platform”](https://cssplice.github.io/SIGCSE21/proc/SPLICE2021_SIGCSE_paper_10.pdf). In SPLICE 2021 workshop CS Education Infrastructure for All III: From Ideas to Practice at 52nd ACM Technical Symposium on Computer Science Education (SIGCSE 2021 Virtual), 2021.
 
