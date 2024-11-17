@@ -4,7 +4,38 @@ permalink: /publications/
 header: Publications
 ---
 
-0.	Morgan F., Butler L., Alawini A., Herman G., Silva M., [“Developing tools, pedagogies, and policies for computer-based collaborative learning activities”](https://peer.asee.org/board-254-developing-tools-pedagogies-and-policies-for-computer-based-collaborative-learning-activities), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.
+0.	Emeka C., Herman G., Sosnowski J., West M., Zilles C., Silva M., [“Measuring test anxiety of two computerized exam approaches ”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/81/Measuring-Test-Anxiety-of-Two-Computerized-Exam-Approaches), to appear in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
+
+0.	Montagner I, Ferrao R., Zilles C., Silva M., [“Exploring different specification grading policies”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/165/Exploring-Different-Specifications-Grading-Policies), to appear in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.
+
+0. Zhao C., Silva M., Poulsen S., ["Autograding mathematical induction proofs with Natural Language Processing"](https://arxiv.org/abs/2406.10268), arXiv 2024.
+
+0.	Emeka C., West M., Zilles C., Silva M., ["A comparison of proctoring regimens for computer-based Computer Science exams"](https://dl.acm.org/doi/10.1145/3649217.3653536) Proceedings of the 2024 Innovation and Technology in Computer Science Education (ITiCSE 2024), 2024.
+
+0.	Ferrao R., Montagner I, Silva M., Zilles C., Azevedo R., [“Embedded-check: a Code Quality Tool for Automatic Firmware Verification”](https://dl.acm.org/doi/10.1145/3649217.3653577), Proceedings of the 2024 Innovation and Technology in Computer Science Education (ITiCSE 2024), 2024.
+
+0.	Gulati R., Zilles C., West M., Silva M., ["Unpacking the influence of computer-based testing modalities on student study behaviour and performance"](https://library.iated.org/view/GULATI2024UNP), Proceedings of the 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024.
+
+0.	Ferrao R., Azevedo R., Silva M., [“Helping students to start a project”](https://library.iated.org/view/FERRAO2024HEL), abstract only, 16th International Conference on Education and New Learning Technologies (EDULEARN 2024), 2024.
+
+0.	Ferrao R., Montagner I, Silva M., Zilles C., Azevedo R., “Micro-specialization as solution to open-ended project”, poster, Proceedings of the 1st ACM Virtual Global Computing Education Conference(SIGCSE Virtual 2024), 2024.
+
+0.  Sosnowski J., Baker J., Arnold O., Silva M., Mussulman D., Zilles C., West M., ["Reflections on 10 years of operating a Computer-based Testing Facility: lessons learned, best practices"](https://peer.asee.org/reflections-on-10-years-of-operating-a-computer-based-testing-facility-lessons-learned-best-practices), Proceedings of the 2024 American Society for Engineering Education Conference (ASEE 2024), 2024.
+
+0.  Chang W., Ok S., West M., Hilgenfeldt S., Silva M. ["Effects of integrating computational tools into an introductory engineering mechanics course"](https://nemo.asee.org/public/conferences/344/papers/43059/view), Proceedings of the 2024 American Society for Engineering Education Conference (ASEE 2024), 2024.
+
+0.	Montagner I, Ferrao R., Kurauchi A., Silva M., Zilles C. [“Evaluating mastery-oriented grading in an intensive CS1 course”](https://dl.acm.org/doi/10.1145/3626252.3630841), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2024), 2024.
+
+0. Fong M., Huang S., Alawini A., Silva M., Herman G., ["Exploring computing students' sense of belonging before and after a collaborative learning course"](https://dl.acm.org/doi/10.1145/3626252.3630850), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2024), 2024.
+
+0.	Gulati R., West M., Zilles C., Silva M., ["Comparing the security of three proctoring regimens for Bring-Your-Own-Device exams"](https://dl.acm.org/doi/10.1145/3626252.3630809), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2024), 2024.
+
+0.	Fox A., Garcia D., Heeren C., Moosvi F., Silva M., West M., Zilles C., [Experiences with Computer-Based Testing (CBT)"](https://dl.acm.org/doi/10.1145/3626253.3635375), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2024), 2024.
+
+0.	Downey K., Miller K., Silva M., Zilles C., ["One solution to addressing assessment logistical problems: an experience setting up and operating an in-person testing center"](https://dl.acm.org/doi/10.1145/3626252.3630902) Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2024), 2024.
+
+
+0.	Fong M., Butler L., Alawini A., Herman G., Silva M., [“Developing tools, pedagogies, and policies for computer-based collaborative learning activities”](https://peer.asee.org/board-254-developing-tools-pedagogies-and-policies-for-computer-based-collaborative-learning-activities), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.
 
 0.	Gulati R., West M., Zilles C., Silva M., [“Comparing Student Outcomes in Online vs. In-person Sections of an On-campus Computer Science Course”](https://peer.asee.org/comparing-student-outcomes-in-online-vs-in-person-sections-of-an-on-campus-computer-science-course0), Proceedings of the 2023 American Society for Engineering Education Conference (ASEE 2023), 2023.
 
@@ -13,6 +44,8 @@ header: Publications
 0. Chen H., West M., Hilgenfeldt S., Silva M., [“Measuring the Impact of a Computational Linear Algebra Course on Students' Exam Performance in a Subsequent Numerical Methods Course”](https://dl.acm.org/doi/10.1145/3545945.3569778), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), 2023.
 
 0. Garcia D., Fox A., Zilles C., West M., Silva M., Terrell N., Russell S., Ambrosio E., Shakir F., [“A’s for All (as Time and Interest Allow)”](https://dl.acm.org/doi/abs/10.1145/3545945.3569847), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), 2023.
+
+0. Garcia D., McMahon C., Garcia Y., Zilles C., West M., Silva M.,  Russell S., Ambrosio E., Terrell N., [“Actually Achieving A’s for All (as Time and Interest Allow)”](https://dl.acm.org/doi/abs/10.1145/3545947.3569633), Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE 2023), 2023.
 
 0.  Silva M., Hieronymi P., West M., Nytko N., Deshpande A., Chuang J., Hilgenfeldt S., [“Innovating and modernizing a Linear Algebra class through teaching computational skills”](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiM_J_Ohc_8AhVBkokEHXueDO0QFnoECAsQAQ&url=https%3A%2F%2Fpeer.asee.org%2Finnovating-and-modernizing-a-linear-algebra-class-through-teaching-computational-skills.pdf&usg=AOvVaw1yd1D_sdeJGwvS7ErGWyW-), Proceedings of the 2022 American Society for Engineering Education Conference (ASEE 2022), 2022.
 
