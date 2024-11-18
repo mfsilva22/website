@@ -8,8 +8,8 @@ header: Teaching Activities and Innovations
 
 I have taught eight different undergraduate courses with over 7200 students, from freshman to senior level. Throughout my teaching I observed and improved how: (a) students learn better when they construct their knowledge through active learning, (b) students are more engaged when applying class concepts to solve real-world problems, and (c) the learning process and knowledge retention are improved with the use of frequent assessments and immediate feedback.
 
-#### My most recent developments
-
+<!-- #### My most recent developments
+ -->
 
 - [Increasing student participation and motivation ]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
 
@@ -45,8 +45,19 @@ I have taught eight different undergraduate courses with over 7200 students, fro
       <a href="https://courses.engr.illinois.edu/cs357/fa2021/" target="blank">Fall 2021</a>,
       <a href="https://courses.engr.illinois.edu/cs357/sp2022/" target="blank">Spring 2022</a>, 
       <a href="https://courses.engr.illinois.edu/cs357/fa2022/" target="blank">Fall 2022</a>, 
-      <a href="https://courses.engr.illinois.edu/cs357/sp2023/" target="blank">Spring 2023</a>
+      <a href="https://courses.engr.illinois.edu/cs357/sp2023/" target="blank">Spring 2023</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/fa2023/" target="blank">Fall 2023</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/sp2024/" target="blank">Spring 2024</a>,
+      <a href="https://courses.engr.illinois.edu/cs357/fa2024/" target="blank">Fall 2024</a>
       </td>
+    </tr>
+    <tr>
+      <td> Intro to Computing: Eng & Sci </td>
+      <td> <a href="https://cs101-web-fa24.pages.dev/docs/syllabus/" target="blank">Fall 2024</a> (co-instructor)</td>
+    </tr>
+    <tr>
+      <td> Current Topics in Computing Education Research </td>
+      <td> <a href="{{ site.baseurl }}/pages/old_syllabus/cs500-fa2024.pdf" target="blank">Fall 2024</a> (co-instructor)</td>
     </tr>
     <tr>
       <td> Applied Linear Algebra </td>
@@ -124,5 +135,5 @@ Over the years, I have explored various teaching innovations, research findings,
 - [Increasing student's participating in class]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
 - [Learning from ABET data collection]({{ site.baseurl }}{% link pages/teaching/ABET.md %})
 - [Introducing Programming Assignments]({{ site.baseurl }}{% link pages/teaching/ProgrammingExamples.md %})
-- [using data - better place for this?]({{ site.baseurl }}{% link pages/teaching/Evaluation_Innovations.md %})
+<!-- - [using data - better place for this?]({{ site.baseurl }}{% link pages/teaching/Evaluation_Innovations.md %}) -->
 
