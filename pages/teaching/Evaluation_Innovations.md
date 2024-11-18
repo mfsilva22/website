@@ -9,5 +9,3 @@ I believe the teaching process should involve continual improvement of the cours
 <!-- According to surveys that I give to students during the semester, students prefer online homework with unlimited attempts, and feel they learn concepts better than the more traditional hand-written homework.
 
  Among other things, I am able to track through surveys student’s perception of the course material, how much time they spend preparing for the class, the effectiveness of my course staff, and the use of technology in classrooms. Using such measured data allows me to continually improve the overall class experience for both students and instructors. -->
-
- - [How can we measure student's ability to use existing numerical libraries?]({{ site.baseurl }}{% link pages/teaching/ABET.md %})
