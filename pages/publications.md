@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 
-header: Publications
+header: Conference and Journal Publications
 ---
 
 0.	Emeka C., Herman G., Sosnowski J., West M., Zilles C., Silva M., [“Measuring test anxiety of two computerized exam approaches ”](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-Papers/81/Measuring-Test-Anxiety-of-Two-Computerized-Exam-Approaches), to appear in the Proceedings of the 55th ACM Technical Symposium on Computer Science Education (SIGCSE 2025), 2025.

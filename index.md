@@ -11,10 +11,6 @@ header:  About me
 
 I have been innovating teaching, content, and assessments in large-scale classes such as Numerical Methods, Introduction to Python, Linear Algebra,Solid Mechanics and Statics. I am very passionate about teaching and improving the classroom experience for both students and instructors. My research explores the development and application of educational technologies to enhance computer-based assessments and centralized computer-based testing centers. This includes leveraging Large Language Models (LLMs) to automate the grading of short-answer questions and to design robust, randomized question generators that support innovative and scalable assessment practices.
 
-
-
-<!-- In this website, I describe technological innovations that I have adopted in my classes or developed to help other instructors: (1) [online assessments](teaching/online_assessments/) with auto-graders, (2) bi-weekly [asynchronous tests](research/async_test/) using a computer-based testing facility, (3) [synchronized computers](research/collaborative_learning/) to enhance collaborative activities, (4) a web-app to [assign students to group projects](research/junto/), and (5) an online [drawing tool for sketches](research/drawing_tool/) that are auto-graded. -->
-
 <div style="clear: both"></div>
 
 ### Biography:
