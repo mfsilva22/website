@@ -4,7 +4,6 @@ permalink: /entrepreneurship/
 header: Building PrairieLearn, Inc.
 ---
 
- <!-- <img src="{{ site.baseurl }}/pages/images/PrairieLearnLogo.png" alt="PrairieLearn logo" style="max-width: 50%;  clear:"> -->
 
 ## PrairieLearn’s Journey
 

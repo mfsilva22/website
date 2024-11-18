@@ -9,13 +9,23 @@ header: List of courses taught
 <a name="cs357"></a>
 #### Numerical Methods 1 (CS 357)
 
-Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. [Spring  2018, Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021]
+Fundamentals of numerical methods for students in science and engineering; floating-point computation, systems of linear equations, approximation of functions and integrals, the single nonlinear equation, and the numerical solution of ordinary differential equations; various applications in science and engineering; programming exercises and use of high quality mathematical library routines. [Spring  2018 - Fall 2024]
+
+<a name="math415"></a>
+#### Intro to Computing: Eng & Sci (CS 101)
+
+Fundamental principles, concepts, and methods of computing, with emphasis on applications in the physical sciences and engineering. Basic problem solving and programming techniques; fundamental algorithms and data structures; use of computers in solving engineering and scientific problems. Intended for engineering and science majors. [Fall 2024]
+
+<a name="math415"></a>
+#### Current Topics in Computing Education Research (CS 500)
+
+In this project-based learning course, students will work in teams to develop an HTML element that can be used by an instructor to develop a suite of new questions for the PrairieLearn platform (e.g., freehand sketch grading tool, randomizable circuit generator). To complete these projects, students will learn about principles for the design of effective online assessments and learning activities. They will also learn about user-centered design techniques and apply principles from software engineering and human-computer interactions. Students will conduct a user-experience study and potentially incorporate their tool into an actual course or publish about their tool in relevant education conferences. [Fall 2024]
 
 
 <a name="math415"></a>
 #### Applied Linear Algebra (MATH 415 - PL1 section)
 
-Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems. This section has a special focus on incorporating linear algebra concepts with computational tools in real world science and engineering applications. There is a required Python lab in place of a lecture on Fridays. For more details, please see [https://go.illinois.edu/MATH415PL1](https://go.illinois.edu/MATH415PL1). [Fall 2020]
+Introductory course emphasizing techniques of linear algebra with applications to engineering; topics include matrix operations, determinants, linear equations, vector spaces, linear transformations, eigenvalues, and eigenvectors, inner products and norms, orthogonality, equilibrium, and linear dynamical systems. This section has a special focus on incorporating linear algebra concepts with computational tools in real world science and engineering applications. There is a required Python lab in place of a lecture on Fridays. [Fall 2020]
 
 <a name="math299la"></a>
 #### Compulational Tools for Linear Algebra (MATH 299)

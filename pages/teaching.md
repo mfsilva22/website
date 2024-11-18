@@ -129,8 +129,7 @@ I have taught eight different undergraduate courses with over 7200 students, fro
 
 ## Past Highlights
 
-Over the years, I have explored various teaching innovations, research findings, and course development projects that have shaped my approach to education. Below is a collection of key resources and activities that reflect these efforts, providing additional context and insights into my teaching journey.
-
+Over the years, I have explored various teaching innovations and course development projects that have shaped my approach to education. Below is a collection of key resources and activities that reflect these efforts.
 
 - [Increasing student's participating in class]({{ site.baseurl }}{% link pages/teaching/Interactive.md %})
 - [Learning from ABET data collection]({{ site.baseurl }}{% link pages/teaching/ABET.md %})
