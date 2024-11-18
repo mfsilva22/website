@@ -8,7 +8,7 @@ header: Building PrairieLearn, Inc.
 
 ## PrairieLearn’s Journey
 
- <img src="{{ site.baseurl }}/pages/images/PrairieLearnLogo.png" alt="PrairieLearn logo" style="float: right; margin: 10px 0 10px 25px; max-height: 200px; max-width: 40%;">
+ <img src="{{ site.baseurl }}/pages/images/prairielearnlogo.png" alt="PrairieLearn logo" style="float: right; margin: 10px 10px 0px 10px; max-height: 200px; max-width: 40%;">
 
  PrairieLearn began as [open-source software](https://github.com/PrairieLearn) in 2014, originally developed by Prof. Matt West in the Department of Mechanical Science and Engineering (MechSE) at the University of Illinois Urbana-Champaign, to enable instructors teaching Mechanics courses—initially Matt teaching Dynamics and myself teaching Solid Mechanics—to create more effective online autograded assessments for our large classes. The platform was born out of necessity, as existing commercial solutions lacked the flexibility to support sophisticated question types, offering only basic formats like multiple choice and fill-in-the-blank.
 
@@ -33,7 +33,7 @@ Through these efforts, PrairieLearn has grown into a trusted tool adopted by uni
 
 ## PrairieLearn’s Adoption
 
- <img src="{{ site.baseurl }}/pages/images/prairie_dog_core.png" alt="PrairieLearn logo" style="float: right; max-height: 200px; max-width: 40%;">
+ <img src="{{ site.baseurl }}/pages/images/prairie_dog_core.png" alt="PrairieLearn mascot" style="float: right; max-height: 200px; max-width: 40%;">
 
 Since its inception, PrairieLearn has been adopted by several universities, including:
 - **United States:** University of Illinois Urbana-Champaign, University of California Berkeley, University of California San Diego, University of California Riverside, University of California Davis, New York University, University of Michigan, Grand Valley State University, Michigan State University, Bucknell University.
