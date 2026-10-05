@@ -1,1 +1,2 @@
-Redirect 301 / https://mfsilva22.github.io/
+RedirectMatch 301 ^/pages/(courses|entrepreneurship|examples|publications|research|teaching)(?:\.html)?/?$ https://mfsilva22.github.io/$1/
+RedirectMatch 301 ^/.*$ https://mfsilva22.github.io/
