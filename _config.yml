@@ -25,6 +25,8 @@ theme: minima
 plugins:
   - jekyll-feed
 relative_permalinks: false
+include:
+  - .htaccess
 
 defaults:
   -
